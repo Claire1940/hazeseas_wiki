@@ -10,14 +10,7 @@
       "twitterDescription": "Haze Seas Wiki covers Roblox codes, fruits, races, swords, fighting styles, bosses, and pirate progression on Roblox."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
