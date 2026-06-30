@@ -67,37 +67,37 @@
       },
       {
         "icon": "Link",
-        "title": "Official Links",
+        "title": "Haze Seas Official Links",
         "description": "Trello, Discord, Roblox, YouTube, and X channels"
       },
       {
         "icon": "Compass",
-        "title": "Beginner Guide",
+        "title": "Haze Seas Beginner Guide",
         "description": "Controls, first build, fruits, and starter flow"
       },
       {
         "icon": "Cherry",
-        "title": "Devil Fruits",
+        "title": "Haze Seas Devil Fruits",
         "description": "Spawn timers, stock, roster, and awakenings"
       },
       {
         "icon": "Trophy",
-        "title": "Tier List",
+        "title": "Haze Seas Tier List",
         "description": "Ranked fruits, weapons, races, and styles"
       },
       {
         "icon": "Users",
-        "title": "Races",
+        "title": "Haze Seas Races",
         "description": "Race rarities, bonuses, and spin strategy"
       },
       {
         "icon": "Swords",
-        "title": "Weapons and Styles",
+        "title": "Haze Seas Weapons and Styles",
         "description": "Swords, special weapons, and fighting styles"
       },
       {
         "icon": "Skull",
-        "title": "Bosses and Islands",
+        "title": "Haze Seas Bosses and Islands",
         "description": "Boss routes, sea events, and drops"
       }
     ]
@@ -317,113 +317,229 @@
     },
     "hazeSeasTierList": {
       "title": "Haze Seas Tier List",
-      "intro": "This tier list organizes the most searched build choices into separate groups so you can compare each system without mixing fruits, weapons, races, and styles. Use it as a practical reference when deciding what to keep, reroll, farm, or upgrade next.",
+      "intro": "This Haze Seas tier list ranks the most searched build choices across Devil Fruits, weapons, races, and fighting styles so you can compare each system side by side. Use it as a practical reference when deciding what to keep, reroll, farm, or upgrade next across grinding, bosses, PvP, and sea events.",
       "groups": [
         {
           "name": "Devil Fruits",
+          "icon": "Cherry",
           "achievements": [
             {
               "title": "Dough",
-              "description": "S-tier mythical — PvP combos, boss damage, and late-game builds."
+              "description": "S Tier · Mythical — High-value fruit with strong combo potential for PvP, boss damage, and late-game builds."
             },
             {
               "title": "Dragon",
-              "description": "S-tier mythical Zoan — bossing, transformation builds, and high-end PvP."
+              "description": "S Tier · Mythical Zoan — Powerful transformation pressure for bossing, transformation builds, and high-end PvP."
             },
             {
               "title": "Phoenix",
-              "description": "S-tier legendary — survival, sustain, and flexible PvE."
+              "description": "S Tier · Legendary — Strong recovery, mobility, and safer progression for survival and flexible PvE."
             },
             {
               "title": "Leopard",
-              "description": "A-tier legendary Zoan — aggressive melee pressure and PvP."
+              "description": "A Tier · Legendary Zoan — Aggressive close-range pressure and mobile PvP combat."
             },
             {
               "title": "Venom",
-              "description": "A-tier legendary — damage over time, bosses, and area control."
+              "description": "A Tier · Legendary — Damage over time, boss pressure, and area control with poison zones."
             },
             {
               "title": "Magma",
-              "description": "A-tier rare Logia — grinding, boss damage, and area attacks."
+              "description": "A Tier · Rare Logia — Reliable damage and area attacks for grinding and boss farming."
             },
             {
               "title": "Light",
-              "description": "A-tier rare Logia — mobility, fast progression, and ranged farming."
+              "description": "A Tier · Rare Logia — Mobility, fast progression, and safe ranged farming."
+            },
+            {
+              "title": "Gum",
+              "description": "B Tier · Legendary — Flexible combo play and ability-focused builds."
+            },
+            {
+              "title": "Magnet",
+              "description": "B Tier · Legendary — Spacing, ranged pressure, and ability-based damage."
+            },
+            {
+              "title": "Ice",
+              "description": "B Tier · Rare Logia — Freeze-style crowd control for safe grinding and PvP setups."
+            },
+            {
+              "title": "Flame",
+              "description": "B Tier · Rare Logia — Accessible early-to-mid game damage for farming."
+            },
+            {
+              "title": "Gravity",
+              "description": "B Tier · Rare — Larger ability impact for area pressure and ability damage."
+            },
+            {
+              "title": "Smoke",
+              "description": "C Tier · Uncommon Logia — Early elemental option before stronger fruits unlock."
+            },
+            {
+              "title": "Sand",
+              "description": "C Tier · Uncommon Logia — Serviceable early farming fruit, easy to replace later."
+            },
+            {
+              "title": "Bomb",
+              "description": "C Tier · Common — Basic starter damage before rare or legendary routes open."
+            },
+            {
+              "title": "Chop",
+              "description": "C Tier · Common — Early utility fruit with limited long-term value."
             }
           ]
         },
         {
           "name": "Weapons",
+          "icon": "Swords",
           "achievements": [
             {
               "title": "Yoru / Dark Blade",
-              "description": "S-tier mythical sword — premium sword builds and PvP."
+              "description": "S Tier · Mythical Sword — Premium PvP sword builds via shop, gifting, or trading."
             },
             {
               "title": "Enma",
-              "description": "S-tier legendary sword — late-game sword damage from the Enma Boss route."
+              "description": "S Tier · Legendary Sword — Late-game sword damage from the Enma Boss drop route."
             },
             {
               "title": "3 Sword Style",
-              "description": "S-tier legendary sword — combo-heavy sword builds from the 3SS Boss route."
+              "description": "S Tier · Legendary Sword — Combo-heavy multi-sword pressure from the 3SS Boss route."
             },
             {
               "title": "Sea Beast Hammer V2",
-              "description": "S-tier legendary weapon — sea-event farming from the White Sea Beast route."
+              "description": "S Tier · Legendary Weapon — Sea-event farming from the White Sea Beast drop route."
             },
             {
               "title": "Golden Staff",
-              "description": "A-tier legendary sword — electricity-linked builds from the Thunder God route."
+              "description": "A Tier · Legendary Sword — Electricity-linked builds from the Thunder God route on Sky Islands."
+            },
+            {
+              "title": "Raiu",
+              "description": "A Tier · Legendary Sword — Fast sword pressure from the Shiryu Scroll route at Skull Island."
+            },
+            {
+              "title": "Bisento V2",
+              "description": "A Tier · Rare Sword — Upgraded Bisento from the Tremor Girl super boss route."
             },
             {
               "title": "Shusui",
-              "description": "A-tier legendary sword — Thriller Boat progression from the Ryummy route."
+              "description": "A Tier · Legendary Sword — Thriller Boat progression from the Ryummy drop route."
+            },
+            {
+              "title": "Sea Beast Hammer",
+              "description": "B Tier · Legendary Weapon — Heavy damage and sea-event farming from the Sea Beast route."
+            },
+            {
+              "title": "Operation Blade",
+              "description": "B Tier · Legendary Sword — Ability-themed sword builds from the Magma Minion route."
+            },
+            {
+              "title": "2 Sword Style V2",
+              "description": "B Tier · Rare — Mid-to-late sword combos from the Dual Swordsman route."
+            },
+            {
+              "title": "Mace V2",
+              "description": "B Tier · Legendary Weapon — Upgraded heavy weapon pressure from the Mace V2 Boss route."
+            },
+            {
+              "title": "Katana",
+              "description": "C Tier · Common Sword — Starter sword play from the sword shop before boss drops."
+            },
+            {
+              "title": "Shark Blade",
+              "description": "C Tier · Rare Sword — Early boss-drop sword from the Shark Boss at Shark Park."
+            },
+            {
+              "title": "Soul Cane",
+              "description": "C Tier · Rare Sword — Transitional mid-game utility from the Mr Skeleton route."
+            },
+            {
+              "title": "2 Sword Style",
+              "description": "C Tier · Rare — Early sword combos from Mr White before farming the V2."
             }
           ]
         },
         {
           "name": "Races",
+          "icon": "Users",
           "achievements": [
             {
               "title": "D. Clan",
-              "description": "S-tier mythical — endgame PvP, mobility, and survivability with multiple premium bonuses."
+              "description": "S Tier · Mythical — Endgame PvP, mobility, and survivability with regen, speed, SkyWalk, Observation Haki, stamina, health, and Conquerors Spirit."
             },
             {
               "title": "Dragonoid",
-              "description": "S-tier legendary — Observation Haki builds and durable combat."
+              "description": "S Tier · Legendary — Observation Haki builds and durable combat with regen, health, and jump power."
             },
             {
               "title": "Lunarian",
-              "description": "S-tier legendary — mobility and sustain with regeneration and SkyWalk."
+              "description": "S Tier · Legendary — Mobility and sustain with SkyWalk, regen, jump power, and stamina."
             },
             {
               "title": "Demon",
-              "description": "A-tier rare — fast aggression and PvP movement with a major speed bonus."
+              "description": "A Tier · Rare — Fast aggression and PvP movement with a major walk-speed bonus."
             },
             {
               "title": "Celestial Dragon",
-              "description": "A-tier rare — quest money and balanced progression."
+              "description": "A Tier · Rare — Quest money and balanced progression with health and stamina support."
+            },
+            {
+              "title": "Mink",
+              "description": "B Tier · Uncommon — Speed, jumping, and early movement with walk speed, jump power, and stamina."
+            },
+            {
+              "title": "Fishman",
+              "description": "B Tier · Uncommon — Swimming and durable progression with health and swim-speed bonuses."
+            },
+            {
+              "title": "Cyborg",
+              "description": "B Tier · Uncommon — Tankier early progression with health and health regeneration."
+            },
+            {
+              "title": "Skypeian",
+              "description": "B Tier · Uncommon — Jumping and stamina with a simple movement-focused kit."
+            },
+            {
+              "title": "Human",
+              "description": "C Tier · Common — Default starter race with no major build-defining bonus."
+            },
+            {
+              "title": "3 Eyed Tribe",
+              "description": "C Tier · Common — Minor stamina bonus for early support."
+            },
+            {
+              "title": "Elf",
+              "description": "C Tier · Common — Minor health regeneration bonus for early support."
             }
           ]
         },
         {
           "name": "Fighting Styles",
+          "icon": "Hammer",
           "achievements": [
             {
               "title": "Dragonic / Dragon Claw",
-              "description": "S-tier advanced style — late-game melee pressure."
+              "description": "S Tier · Advanced Style — Late-game melee pressure for aggressive close-range combat."
             },
             {
               "title": "Cyborg",
-              "description": "S-tier advanced style — burst damage and ability-based melee."
+              "description": "S Tier · Advanced Style — Burst damage and ability-based melee for advanced builds."
             },
             {
               "title": "Fish-Man Karate",
-              "description": "A-tier style — balanced PvE and PvP melee pressure."
+              "description": "A Tier · Style — Balanced PvE and PvP melee pressure with a practical all-round kit."
             },
             {
               "title": "Electro",
-              "description": "A-tier style — speed-focused melee and stun pressure."
+              "description": "A Tier · Style — Speed-focused melee and stun pressure for fast attackers."
+            },
+            {
+              "title": "Black Leg",
+              "description": "B Tier · Style — Practical first melee upgrade after basic Combat."
+            },
+            {
+              "title": "Combat",
+              "description": "C Tier · Starter Style — Default melee kit before unlocking stronger styles."
             }
           ]
         }
@@ -431,148 +547,193 @@
     },
     "hazeSeasRaces": {
       "title": "Haze Seas Races",
-      "intro": "Races affect movement, health, stamina, regeneration, Haki access, and long-term build direction. Use early race spins carefully when deciding whether to keep a rare or legendary race for grinding, PvP, or sea progression.",
+      "intro": "Races in Haze Seas affect movement, health, stamina, regeneration, Haki access, and long-term build direction. Use early race spins carefully when deciding whether to keep a rare, legendary, or mythical race for grinding, PvP, or sea progression.",
       "regions": [
         {
           "name": "D. Clan",
           "type": "Mythical",
-          "description": "X-shaped scar — health regen, walk speed, SkyWalk, Observation Haki, stamina, health, and Conquerors Spirit. Best for endgame PvP and mobility."
+          "description": "0.1% roll · X-shaped scar. Grants health regen, walk speed, SkyWalk, Observation Haki, stamina, health, and Conquerors Spirit. Best for endgame PvP and mobility. Keep."
         },
         {
           "name": "Dragonoid",
           "type": "Legendary",
-          "description": "Dragon wings and tail — health regen, Observation Haki, health, and jump power. Best for durable builds and late-game progression."
+          "description": "1% roll · Dragon wings and tail. Health regen, Observation Haki, health, and jump power. Best for durable builds and late-game progression. Keep."
         },
         {
           "name": "Lunarian",
           "type": "Legendary",
-          "description": "Black wings and fire orb — SkyWalk, health regen, jump power, and stamina. Best for mobility, sustain, and vertical movement."
+          "description": "1% roll · Black wings and fire orb. SkyWalk, health regen, jump power, and stamina. Best for mobility, sustain, and vertical movement. Keep."
         },
         {
           "name": "Demon",
           "type": "Rare",
-          "description": "Demon horns and black tail — walk speed, health, and stamina. Best for aggressive PvP movement and fast questing."
+          "description": "8.9% roll · Demon horns and black tail. Walk speed, health, and stamina. Best for aggressive PvP movement and fast questing. Keep unless chasing legendary or mythical."
         },
         {
           "name": "Celestial Dragon",
           "type": "Rare",
-          "description": "Glass helmet — quest money, health, and stamina. Best for money farming and balanced progression."
+          "description": "8.9% roll · Glass helmet. Quest money, health, and stamina. Best for money farming and balanced progression. Keep for farming."
         },
         {
           "name": "Mink",
           "type": "Uncommon",
-          "description": "Rabbit ears — walk speed, jump power, and stamina. Best for early movement and mobility-focused grinding."
+          "description": "35% roll · Rabbit ears. Walk speed, jump power, and stamina. Best for movement and mobility-focused grinding. Keep early, reroll later."
         },
         {
           "name": "Fishman",
           "type": "Uncommon",
-          "description": "Shark fin — health and swim speed. Best for sea movement and island-to-island travel."
+          "description": "35% roll · Shark fin. Health and swim speed. Best for sea movement and island-to-island travel. Keep early if travel speed matters."
         },
         {
           "name": "Cyborg",
           "type": "Uncommon",
-          "description": "Science tank — health and health regeneration. Best for safer early combat and durability."
+          "description": "35% roll · Science tank. Health and health regeneration. Best for safer early combat and durability. Keep early, reroll later."
         },
         {
           "name": "Skypeian",
           "type": "Uncommon",
-          "description": "Angel wings — stamina and jump power. Best for jumping, stamina, and early movement."
+          "description": "35% roll · Angel wings. Stamina and jump power. Best for jumping, stamina, and early movement. Keep early, reroll later."
         },
         {
           "name": "Human",
           "type": "Common",
-          "description": "Default starter race with no major build-defining bonus. Reroll when spins are available."
+          "description": "55% roll · No visible trait. Default starter race with no build-defining bonus. Reroll when spins are available."
         },
         {
           "name": "3 Eyed Tribe",
           "type": "Common",
-          "description": "Third eye — minor stamina bonus. Reroll when spins are available."
+          "description": "55% roll · Third eye. Minor stamina bonus for early support. Reroll when spins are available."
         },
         {
           "name": "Elf",
           "type": "Common",
-          "description": "Elf ears — minor health regeneration bonus. Reroll when spins are available."
+          "description": "55% roll · Elf ears. Minor health regeneration bonus for early support. Reroll when spins are available."
         }
       ]
     },
     "hazeSeasWeapons": {
       "title": "Haze Seas Weapons and Fighting Styles",
-      "intro": "Weapons and fighting styles define how a build plays when fruit abilities are on cooldown or when you want a sword-focused route. Use this comparison to decide what to buy early, farm from bosses, and target for late-game PvP or sea events.",
+      "intro": "Weapons and fighting styles define how a Haze Seas build plays when fruit abilities are on cooldown or when you want a sword-focused route. Use this comparison to decide what to buy early, farm from bosses, and target for late-game PvP or sea events.",
       "settings": [
         {
           "name": "Yoru / Dark Blade",
           "type": "Mythical Sword",
-          "description": "Shop, gifting, or trading route — premium PvP sword builds."
+          "description": "Shop, gifting, or trading route (1,200 Robux). Premium PvP sword builds for serious sword investment."
         },
         {
           "name": "Enma",
           "type": "Legendary Sword",
-          "description": "Defeat Enma Boss — late-game sword damage."
+          "description": "Defeat Enma Boss (10% drop). Major late-game sword damage target."
         },
         {
           "name": "3 Sword Style",
           "type": "Legendary Sword",
-          "description": "Defeat 3SS Boss — combo-focused multi-sword pressure."
+          "description": "Defeat 3SS Boss (5% drop). Combo-focused multi-sword pressure."
         },
         {
           "name": "Sea Beast Hammer V2",
           "type": "Legendary Weapon",
-          "description": "Defeat White Sea Beast — sea-event weapon builds."
+          "description": "Defeat White Sea Beast (3.5% drop). Sea-event weapon builds."
         },
         {
           "name": "Golden Staff",
           "type": "Legendary Sword",
-          "description": "Defeat Thunder God on Sky Islands — electricity-linked sword builds."
-        },
-        {
-          "name": "Shusui",
-          "type": "Legendary Sword",
-          "description": "Defeat Ryummy at Thriller Boat — late-game sword progression."
+          "description": "Defeat Thunder God on Sky Islands (1% drop). Electricity-linked sword builds."
         },
         {
           "name": "Raiu",
           "type": "Legendary Sword",
-          "description": "Shiryu Scroll route at Skull Island — fast sword pressure."
+          "description": "Shiryu Scroll route at Skull Island. Fast sword pressure for late progression."
+        },
+        {
+          "name": "Shusui",
+          "type": "Legendary Sword",
+          "description": "Defeat Ryummy at Thriller Boat (boss drop). Late-game sword progression."
+        },
+        {
+          "name": "Fishman Trident",
+          "type": "Legendary Sword",
+          "description": "Fishman Island weapon route. Water-themed sword builds while progressing the island."
         },
         {
           "name": "Bisento",
           "type": "Legendary Sword",
-          "description": "Purchase from Bella NPC for 500,000 Money — reliable purchased sword."
+          "description": "Purchase from Bella NPC (500,000 Money). Reliable purchased sword before harder drops."
+        },
+        {
+          "name": "Bisento V2",
+          "type": "Rare Sword",
+          "description": "Defeat Tremor Girl (20% drop). Upgraded Bisento for super boss farming."
+        },
+        {
+          "name": "Operation Blade",
+          "type": "Legendary Sword",
+          "description": "Magma Minion route (250,000 Money). Ability-themed sword builds."
         },
         {
           "name": "Sea Beast Hammer",
           "type": "Legendary Weapon",
-          "description": "Defeat Sea Beast at Rocky Pillars — heavy damage and sea-event farming."
+          "description": "Defeat Sea Beast at Rocky Pillars (50% drop). Heavy damage and sea-event farming."
         },
         {
           "name": "Mace",
           "type": "Rare Weapon",
-          "description": "Defeat Mace Boss on Winter Island — guaranteed heavy melee route."
+          "description": "Defeat Mace Boss on Winter Island (100% drop). Guaranteed heavy melee route."
+        },
+        {
+          "name": "Mace V2",
+          "type": "Legendary Weapon",
+          "description": "Defeat Mace V2 Boss (1% drop). Upgraded heavy weapon pressure."
+        },
+        {
+          "name": "2 Sword Style",
+          "type": "Rare Sword Style",
+          "description": "Purchase from Mr White (100,000 Money). Early sword combos."
+        },
+        {
+          "name": "2 Sword Style V2",
+          "type": "Rare Sword Style",
+          "description": "Defeat Dual Swordsman at Logue City (10% drop). Mid-game sword combos."
+        },
+        {
+          "name": "Shark Blade",
+          "type": "Rare Sword",
+          "description": "Defeat Shark Boss at Shark Park (5% drop). Early boss-drop sword."
+        },
+        {
+          "name": "Katana",
+          "type": "Common Sword",
+          "description": "Sword shop purchase. Starter sword before rare and legendary routes open."
+        },
+        {
+          "name": "Combat",
+          "type": "Starter Style",
+          "description": "Default fighting style. First levels and basic melee."
         },
         {
           "name": "Black Leg",
           "type": "Fighting Style",
-          "description": "Trainer route at Sea Restaurant — practical first melee upgrade."
+          "description": "Trainer at Sea Restaurant (Money purchase). Practical first melee upgrade."
         },
         {
           "name": "Electro",
           "type": "Fighting Style",
-          "description": "Trainer route at Udon Prison — fast melee and stun pressure."
+          "description": "Trainer at Udon Prison (Money purchase). Fast melee and stun pressure."
         },
         {
           "name": "Fish-Man Karate",
           "type": "Fighting Style",
-          "description": "Trainer route on Fishman progression — balanced PvE and PvP melee."
+          "description": "Trainer on Fishman progression route. Balanced PvE and PvP melee."
         },
         {
           "name": "Cyborg",
           "type": "Fighting Style",
-          "description": "Advanced trainer route — burst-focused ability-based melee."
+          "description": "Advanced trainer route. Burst-focused ability-based melee builds."
         },
         {
           "name": "Dragonic / Dragon Claw",
           "type": "Fighting Style",
-          "description": "Advanced trainer route — late-game aggressive melee pressure."
+          "description": "Advanced trainer route. Late-game aggressive melee pressure."
         }
       ]
     },
@@ -583,22 +744,67 @@
         {
           "type": "First Sea",
           "title": "Shark Park — Shark Boss (Lv 120)",
-          "description": "Farm the Shark Blade drop here for an early rare sword before moving deeper into First Sea progression."
+          "description": "Drops Shark Blade. Farm for an early rare sword before pushing deeper into First Sea progression."
+        },
+        {
+          "type": "First Sea",
+          "title": "Desert Ruins — Bomb Boss (Lv 200)",
+          "description": "Boss progression route used mainly for leveling toward higher-level island content."
         },
         {
           "type": "First Sea",
           "title": "Sea Restaurant — Krieg Boss (Lv 300)",
-          "description": "Drops Gold Pauldrons. A useful early stop for accessory farming and Black Leg progression."
+          "description": "Drops Gold Pauldrons. Early accessory farming and Black Leg progression."
         },
         {
           "type": "First Sea",
           "title": "Logue Town — Tashii (Lv 400)",
-          "description": "Drops Glasses. Continue farming here before moving into mid-game boss routes."
+          "description": "Drops Glasses. Continue farming before moving into mid-game boss routes."
+        },
+        {
+          "type": "First Sea",
+          "title": "Tall Woods — King Gorilla (Lv 550)",
+          "description": "Drops Monkey Crown. Checkpoint for players building accessory collections."
+        },
+        {
+          "type": "First Sea",
+          "title": "Marine Base Town — Marine Captain (Lv 650)",
+          "description": "Drops Iron Jaw and Lava Ore. Farm for boss progression and upgrade materials."
+        },
+        {
+          "type": "First Sea",
+          "title": "Three Islands — Minotaur (Lv 750)",
+          "description": "Drops Oversized Helmet. Mid-game stop before Marine HQ and Sky Islands."
+        },
+        {
+          "type": "First Sea",
+          "title": "Marine HQ — Ice Admiral (Lv 900)",
+          "description": "Drops Sleeping Mask and TremorBeard Key. Prepares for special boss routes."
         },
         {
           "type": "First Sea",
           "title": "Sky Islands — Thunder God (Lv 1100)",
-          "description": "Drops Golden Staff and Thunder Drums. Farm for the Golden Staff route and electricity-themed progression."
+          "description": "Drops Golden Staff and Thunder Drums. Farm for the Golden Staff and electricity-themed routes."
+        },
+        {
+          "type": "First Sea",
+          "title": "Revolutionary Base — Revolutionary Boss (Lv 1250)",
+          "description": "Boss progression route before pushing into prison and late First Sea zones."
+        },
+        {
+          "type": "First Sea",
+          "title": "Impel Jail — Warden (Lv 1400)",
+          "description": "Drops Warden Hat and Match. Key stop before Hot Island and Fishman Island."
+        },
+        {
+          "type": "First Sea",
+          "title": "Hot Island — Vergo (Lv 1500)",
+          "description": "Drops Black Shades. Accessory farming and late First Sea progression."
+        },
+        {
+          "type": "First Sea",
+          "title": "Cold Island Lab — Harpy (Lv 1550)",
+          "description": "Drops Ice Ore. Tied to Sea Beast Core and Blacksmith crafting progression."
         },
         {
           "type": "First Sea",
@@ -608,22 +814,32 @@
         {
           "type": "First Sea",
           "title": "Skull Island — Shiryu (Lv 1850)",
-          "description": "Drops Scroll for Raiu progression. A key stop for late First Sea weapon routes."
+          "description": "Drops Scroll for Raiu progression. Key stop for late First Sea weapon routes."
+        },
+        {
+          "type": "First Sea",
+          "title": "Bubble Island — G4 Boss (Lv 2000)",
+          "description": "Drops Gear 4 Book. Important for Gear 4-related progression."
         },
         {
           "type": "First Sea",
           "title": "Thriller Boat — Ryummy (Lv 2150)",
-          "description": "Drops Shusui and Blue Scarf. A major late First Sea farming target for sword players."
+          "description": "Drops Shusui and Blue Scarf. Major late First Sea sword-farming target."
         },
         {
           "type": "Super Boss",
           "title": "Logue City — Dual Swordsman (Lv 500)",
-          "description": "Drops 2 Sword Style V2. Farm after planning around 2 Sword Style progression."
+          "description": "Drops 2 Sword Style V2, Green Bandana, and Book. Farm after planning 2 Sword Style progression."
         },
         {
           "type": "Super Boss",
           "title": "Super Boss — Tremor Girl",
-          "description": "Drops Bisento V2. A direct upgrade route for Bisento-style sword combat."
+          "description": "Drops Bisento V2. Upgrade route for Bisento-style sword combat."
+        },
+        {
+          "type": "Super Boss",
+          "title": "Winter Island — Mace Boss (Lv 700)",
+          "description": "Drops Mace. Guaranteed heavy weapon route before rarer upgrades."
         },
         {
           "type": "Super Boss",
@@ -633,12 +849,17 @@
         {
           "type": "Super Boss",
           "title": "Late Boss — 3SS Boss",
-          "description": "Drops 3 Sword Style. A key target for multi-sword and combo-heavy builds."
+          "description": "Drops 3 Sword Style. Key target for multi-sword combo builds."
+        },
+        {
+          "type": "Super Boss",
+          "title": "Late Boss — Mace V2 Boss",
+          "description": "Drops Mace V2. Upgraded heavy weapon path for Mace route players."
         },
         {
           "type": "Sea Event",
           "title": "Rocky Pillars — Sea Beast (Lv 700)",
-          "description": "Drops Sea Beast Hammer, Sea Beast Core, Money, Gems, and Bounty. Use for heavy weapon and material farming."
+          "description": "Drops Sea Beast Hammer, Sea Beast Core, Money, Gems, and Bounty. Heavy weapon and material farming."
         },
         {
           "type": "Sea Event",
@@ -652,8 +873,28 @@
         },
         {
           "type": "Second Sea",
+          "title": "Winter Island — Snow Boss Route",
+          "description": "Late progression island route through higher-level Second Sea content."
+        },
+        {
+          "type": "Second Sea",
+          "title": "Snake Amazon — Late Island Route",
+          "description": "Late progression stop before stronger fruit and boss routes."
+        },
+        {
+          "type": "Second Sea",
           "title": "Venom Island — Venom Boss",
-          "description": "Venom route progression. Farm for late-game ability and boss progression."
+          "description": "Venom route progression. Farm for late-game ability and boss content."
+        },
+        {
+          "type": "Second Sea",
+          "title": "Late Boss — Dough User",
+          "description": "Connected to high-demand mythical Dough fruit progression."
+        },
+        {
+          "type": "Second Sea",
+          "title": "Late Boss — Dragon Boss",
+          "description": "Connected to high-demand mythical Zoan Dragon progression."
         }
       ]
     }

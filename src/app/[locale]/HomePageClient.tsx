@@ -5,7 +5,6 @@ import {
   ArrowRight,
   BookOpen,
   Check,
-  ClipboardCheck,
   Clock,
   Eye,
   Gift,
@@ -634,7 +633,10 @@ export default function HomePageClient({
                 className="p-6 bg-white/5 border border-border rounded-xl"
               >
                 <div className="flex items-center gap-2 mb-4">
-                  <ClipboardCheck className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                  <DynamicIcon
+                    name={group.icon}
+                    className="w-5 h-5 text-[hsl(var(--nav-theme-light))]"
+                  />
                   <h3 className="font-bold text-lg">
                     <LinkedTitle
                       linkData={
