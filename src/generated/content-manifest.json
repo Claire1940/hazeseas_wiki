@@ -1,1 +1,706 @@
-{}
+{
+  "en": {
+    "codes": [
+      {
+        "slug": "haze-seas-codes",
+        "file": "haze-seas-codes"
+      }
+    ],
+    "fruits": [
+      {
+        "slug": "haze-seas-dragon",
+        "file": "haze-seas-dragon"
+      },
+      {
+        "slug": "haze-seas-electricity-fruit",
+        "file": "haze-seas-electricity-fruit"
+      },
+      {
+        "slug": "haze-seas-fruit-awakening",
+        "file": "haze-seas-fruit-awakening"
+      },
+      {
+        "slug": "haze-seas-fruit-rework",
+        "file": "haze-seas-fruit-rework"
+      },
+      {
+        "slug": "haze-seas-fruits",
+        "file": "haze-seas-fruits"
+      },
+      {
+        "slug": "haze-seas-gear-5",
+        "file": "haze-seas-gear-5"
+      },
+      {
+        "slug": "haze-seas-gum-fruit",
+        "file": "haze-seas-gum-fruit"
+      },
+      {
+        "slug": "haze-seas-okuchi-fruit",
+        "file": "haze-seas-okuchi-fruit"
+      },
+      {
+        "slug": "haze-seas-phoenix-fruit",
+        "file": "haze-seas-phoenix-fruit"
+      },
+      {
+        "slug": "haze-seas-tremor-fruit",
+        "file": "haze-seas-tremor-fruit"
+      },
+      {
+        "slug": "haze-seas-zoan-fruits",
+        "file": "haze-seas-zoan-fruits"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "haze-seas-beginner-guide",
+        "file": "haze-seas-beginner-guide"
+      },
+      {
+        "slug": "haze-seas-bosses-guide",
+        "file": "haze-seas-bosses-guide"
+      },
+      {
+        "slug": "haze-seas-drops-guide",
+        "file": "haze-seas-drops-guide"
+      },
+      {
+        "slug": "haze-seas-haki-guide",
+        "file": "haze-seas-haki-guide"
+      },
+      {
+        "slug": "haze-seas-leveling-guide",
+        "file": "haze-seas-leveling-guide"
+      },
+      {
+        "slug": "haze-seas-max-level-guide",
+        "file": "haze-seas-max-level-guide"
+      },
+      {
+        "slug": "haze-seas-noob-to-pro-guide",
+        "file": "haze-seas-noob-to-pro-guide"
+      },
+      {
+        "slug": "haze-seas-second-sea-guide",
+        "file": "haze-seas-second-sea-guide"
+      }
+    ],
+    "links": [
+      {
+        "slug": "haze-seas-discord",
+        "file": "haze-seas-discord"
+      },
+      {
+        "slug": "haze-seas-link-game",
+        "file": "haze-seas-link-game"
+      },
+      {
+        "slug": "haze-seas-official-trailer",
+        "file": "haze-seas-official-trailer"
+      },
+      {
+        "slug": "haze-seas-roblox",
+        "file": "haze-seas-roblox"
+      },
+      {
+        "slug": "haze-seas-trello",
+        "file": "haze-seas-trello"
+      }
+    ],
+    "release": [
+      {
+        "slug": "haze-seas-haze-piece-revamp",
+        "file": "haze-seas-haze-piece-revamp"
+      },
+      {
+        "slug": "haze-seas-launch",
+        "file": "haze-seas-launch"
+      },
+      {
+        "slug": "haze-seas-release-date",
+        "file": "haze-seas-release-date"
+      },
+      {
+        "slug": "haze-seas-rerelease",
+        "file": "haze-seas-rerelease"
+      },
+      {
+        "slug": "haze-seas-roblox-release-date",
+        "file": "haze-seas-roblox-release-date"
+      },
+      {
+        "slug": "haze-seas-update",
+        "file": "haze-seas-update"
+      }
+    ],
+    "styles": [
+      {
+        "slug": "haze-seas-black-leg",
+        "file": "haze-seas-black-leg"
+      },
+      {
+        "slug": "haze-seas-electro",
+        "file": "haze-seas-electro"
+      },
+      {
+        "slug": "haze-seas-fighting-styles",
+        "file": "haze-seas-fighting-styles"
+      }
+    ],
+    "weapons": [
+      {
+        "slug": "haze-seas-all-swords",
+        "file": "haze-seas-all-swords"
+      },
+      {
+        "slug": "haze-seas-reworked-weapons",
+        "file": "haze-seas-reworked-weapons"
+      },
+      {
+        "slug": "haze-seas-sword-locations",
+        "file": "haze-seas-sword-locations"
+      },
+      {
+        "slug": "haze-seas-swords",
+        "file": "haze-seas-swords"
+      },
+      {
+        "slug": "haze-seas-weapon-locations",
+        "file": "haze-seas-weapon-locations"
+      },
+      {
+        "slug": "haze-seas-weapons",
+        "file": "haze-seas-weapons"
+      }
+    ]
+  },
+  "es": {
+    "codes": [
+      {
+        "slug": "haze-seas-codes",
+        "file": "haze-seas-codes"
+      }
+    ],
+    "fruits": [
+      {
+        "slug": "haze-seas-dragon",
+        "file": "haze-seas-dragon"
+      },
+      {
+        "slug": "haze-seas-electricity-fruit",
+        "file": "haze-seas-electricity-fruit"
+      },
+      {
+        "slug": "haze-seas-fruit-awakening",
+        "file": "haze-seas-fruit-awakening"
+      },
+      {
+        "slug": "haze-seas-fruit-rework",
+        "file": "haze-seas-fruit-rework"
+      },
+      {
+        "slug": "haze-seas-fruits",
+        "file": "haze-seas-fruits"
+      },
+      {
+        "slug": "haze-seas-gear-5",
+        "file": "haze-seas-gear-5"
+      },
+      {
+        "slug": "haze-seas-gum-fruit",
+        "file": "haze-seas-gum-fruit"
+      },
+      {
+        "slug": "haze-seas-okuchi-fruit",
+        "file": "haze-seas-okuchi-fruit"
+      },
+      {
+        "slug": "haze-seas-phoenix-fruit",
+        "file": "haze-seas-phoenix-fruit"
+      },
+      {
+        "slug": "haze-seas-tremor-fruit",
+        "file": "haze-seas-tremor-fruit"
+      },
+      {
+        "slug": "haze-seas-zoan-fruits",
+        "file": "haze-seas-zoan-fruits"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "haze-seas-beginner-guide",
+        "file": "haze-seas-beginner-guide"
+      },
+      {
+        "slug": "haze-seas-bosses-guide",
+        "file": "haze-seas-bosses-guide"
+      },
+      {
+        "slug": "haze-seas-drops-guide",
+        "file": "haze-seas-drops-guide"
+      },
+      {
+        "slug": "haze-seas-haki-guide",
+        "file": "haze-seas-haki-guide"
+      },
+      {
+        "slug": "haze-seas-leveling-guide",
+        "file": "haze-seas-leveling-guide"
+      },
+      {
+        "slug": "haze-seas-max-level-guide",
+        "file": "haze-seas-max-level-guide"
+      },
+      {
+        "slug": "haze-seas-noob-to-pro-guide",
+        "file": "haze-seas-noob-to-pro-guide"
+      },
+      {
+        "slug": "haze-seas-second-sea-guide",
+        "file": "haze-seas-second-sea-guide"
+      }
+    ],
+    "links": [
+      {
+        "slug": "haze-seas-discord",
+        "file": "haze-seas-discord"
+      },
+      {
+        "slug": "haze-seas-link-game",
+        "file": "haze-seas-link-game"
+      },
+      {
+        "slug": "haze-seas-official-trailer",
+        "file": "haze-seas-official-trailer"
+      },
+      {
+        "slug": "haze-seas-roblox",
+        "file": "haze-seas-roblox"
+      },
+      {
+        "slug": "haze-seas-trello",
+        "file": "haze-seas-trello"
+      }
+    ],
+    "release": [
+      {
+        "slug": "haze-seas-haze-piece-revamp",
+        "file": "haze-seas-haze-piece-revamp"
+      },
+      {
+        "slug": "haze-seas-launch",
+        "file": "haze-seas-launch"
+      },
+      {
+        "slug": "haze-seas-release-date",
+        "file": "haze-seas-release-date"
+      },
+      {
+        "slug": "haze-seas-rerelease",
+        "file": "haze-seas-rerelease"
+      },
+      {
+        "slug": "haze-seas-roblox-release-date",
+        "file": "haze-seas-roblox-release-date"
+      },
+      {
+        "slug": "haze-seas-update",
+        "file": "haze-seas-update"
+      }
+    ],
+    "styles": [
+      {
+        "slug": "haze-seas-black-leg",
+        "file": "haze-seas-black-leg"
+      },
+      {
+        "slug": "haze-seas-electro",
+        "file": "haze-seas-electro"
+      },
+      {
+        "slug": "haze-seas-fighting-styles",
+        "file": "haze-seas-fighting-styles"
+      }
+    ],
+    "weapons": [
+      {
+        "slug": "haze-seas-all-swords",
+        "file": "haze-seas-all-swords"
+      },
+      {
+        "slug": "haze-seas-reworked-weapons",
+        "file": "haze-seas-reworked-weapons"
+      },
+      {
+        "slug": "haze-seas-sword-locations",
+        "file": "haze-seas-sword-locations"
+      },
+      {
+        "slug": "haze-seas-swords",
+        "file": "haze-seas-swords"
+      },
+      {
+        "slug": "haze-seas-weapon-locations",
+        "file": "haze-seas-weapon-locations"
+      },
+      {
+        "slug": "haze-seas-weapons",
+        "file": "haze-seas-weapons"
+      }
+    ]
+  },
+  "ja": {
+    "codes": [
+      {
+        "slug": "haze-seas-codes",
+        "file": "haze-seas-codes"
+      }
+    ],
+    "fruits": [
+      {
+        "slug": "haze-seas-dragon",
+        "file": "haze-seas-dragon"
+      },
+      {
+        "slug": "haze-seas-electricity-fruit",
+        "file": "haze-seas-electricity-fruit"
+      },
+      {
+        "slug": "haze-seas-fruit-awakening",
+        "file": "haze-seas-fruit-awakening"
+      },
+      {
+        "slug": "haze-seas-fruit-rework",
+        "file": "haze-seas-fruit-rework"
+      },
+      {
+        "slug": "haze-seas-fruits",
+        "file": "haze-seas-fruits"
+      },
+      {
+        "slug": "haze-seas-gear-5",
+        "file": "haze-seas-gear-5"
+      },
+      {
+        "slug": "haze-seas-gum-fruit",
+        "file": "haze-seas-gum-fruit"
+      },
+      {
+        "slug": "haze-seas-okuchi-fruit",
+        "file": "haze-seas-okuchi-fruit"
+      },
+      {
+        "slug": "haze-seas-phoenix-fruit",
+        "file": "haze-seas-phoenix-fruit"
+      },
+      {
+        "slug": "haze-seas-tremor-fruit",
+        "file": "haze-seas-tremor-fruit"
+      },
+      {
+        "slug": "haze-seas-zoan-fruits",
+        "file": "haze-seas-zoan-fruits"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "haze-seas-beginner-guide",
+        "file": "haze-seas-beginner-guide"
+      },
+      {
+        "slug": "haze-seas-bosses-guide",
+        "file": "haze-seas-bosses-guide"
+      },
+      {
+        "slug": "haze-seas-drops-guide",
+        "file": "haze-seas-drops-guide"
+      },
+      {
+        "slug": "haze-seas-haki-guide",
+        "file": "haze-seas-haki-guide"
+      },
+      {
+        "slug": "haze-seas-leveling-guide",
+        "file": "haze-seas-leveling-guide"
+      },
+      {
+        "slug": "haze-seas-max-level-guide",
+        "file": "haze-seas-max-level-guide"
+      },
+      {
+        "slug": "haze-seas-noob-to-pro-guide",
+        "file": "haze-seas-noob-to-pro-guide"
+      },
+      {
+        "slug": "haze-seas-second-sea-guide",
+        "file": "haze-seas-second-sea-guide"
+      }
+    ],
+    "links": [
+      {
+        "slug": "haze-seas-discord",
+        "file": "haze-seas-discord"
+      },
+      {
+        "slug": "haze-seas-link-game",
+        "file": "haze-seas-link-game"
+      },
+      {
+        "slug": "haze-seas-official-trailer",
+        "file": "haze-seas-official-trailer"
+      },
+      {
+        "slug": "haze-seas-roblox",
+        "file": "haze-seas-roblox"
+      },
+      {
+        "slug": "haze-seas-trello",
+        "file": "haze-seas-trello"
+      }
+    ],
+    "release": [
+      {
+        "slug": "haze-seas-haze-piece-revamp",
+        "file": "haze-seas-haze-piece-revamp"
+      },
+      {
+        "slug": "haze-seas-launch",
+        "file": "haze-seas-launch"
+      },
+      {
+        "slug": "haze-seas-release-date",
+        "file": "haze-seas-release-date"
+      },
+      {
+        "slug": "haze-seas-rerelease",
+        "file": "haze-seas-rerelease"
+      },
+      {
+        "slug": "haze-seas-roblox-release-date",
+        "file": "haze-seas-roblox-release-date"
+      },
+      {
+        "slug": "haze-seas-update",
+        "file": "haze-seas-update"
+      }
+    ],
+    "styles": [
+      {
+        "slug": "haze-seas-black-leg",
+        "file": "haze-seas-black-leg"
+      },
+      {
+        "slug": "haze-seas-electro",
+        "file": "haze-seas-electro"
+      },
+      {
+        "slug": "haze-seas-fighting-styles",
+        "file": "haze-seas-fighting-styles"
+      }
+    ],
+    "weapons": [
+      {
+        "slug": "haze-seas-all-swords",
+        "file": "haze-seas-all-swords"
+      },
+      {
+        "slug": "haze-seas-reworked-weapons",
+        "file": "haze-seas-reworked-weapons"
+      },
+      {
+        "slug": "haze-seas-sword-locations",
+        "file": "haze-seas-sword-locations"
+      },
+      {
+        "slug": "haze-seas-swords",
+        "file": "haze-seas-swords"
+      },
+      {
+        "slug": "haze-seas-weapon-locations",
+        "file": "haze-seas-weapon-locations"
+      },
+      {
+        "slug": "haze-seas-weapons",
+        "file": "haze-seas-weapons"
+      }
+    ]
+  },
+  "pt": {
+    "codes": [
+      {
+        "slug": "haze-seas-codes",
+        "file": "haze-seas-codes"
+      }
+    ],
+    "fruits": [
+      {
+        "slug": "haze-seas-dragon",
+        "file": "haze-seas-dragon"
+      },
+      {
+        "slug": "haze-seas-electricity-fruit",
+        "file": "haze-seas-electricity-fruit"
+      },
+      {
+        "slug": "haze-seas-fruit-awakening",
+        "file": "haze-seas-fruit-awakening"
+      },
+      {
+        "slug": "haze-seas-fruit-rework",
+        "file": "haze-seas-fruit-rework"
+      },
+      {
+        "slug": "haze-seas-fruits",
+        "file": "haze-seas-fruits"
+      },
+      {
+        "slug": "haze-seas-gear-5",
+        "file": "haze-seas-gear-5"
+      },
+      {
+        "slug": "haze-seas-gum-fruit",
+        "file": "haze-seas-gum-fruit"
+      },
+      {
+        "slug": "haze-seas-okuchi-fruit",
+        "file": "haze-seas-okuchi-fruit"
+      },
+      {
+        "slug": "haze-seas-phoenix-fruit",
+        "file": "haze-seas-phoenix-fruit"
+      },
+      {
+        "slug": "haze-seas-tremor-fruit",
+        "file": "haze-seas-tremor-fruit"
+      },
+      {
+        "slug": "haze-seas-zoan-fruits",
+        "file": "haze-seas-zoan-fruits"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "haze-seas-beginner-guide",
+        "file": "haze-seas-beginner-guide"
+      },
+      {
+        "slug": "haze-seas-bosses-guide",
+        "file": "haze-seas-bosses-guide"
+      },
+      {
+        "slug": "haze-seas-drops-guide",
+        "file": "haze-seas-drops-guide"
+      },
+      {
+        "slug": "haze-seas-haki-guide",
+        "file": "haze-seas-haki-guide"
+      },
+      {
+        "slug": "haze-seas-leveling-guide",
+        "file": "haze-seas-leveling-guide"
+      },
+      {
+        "slug": "haze-seas-max-level-guide",
+        "file": "haze-seas-max-level-guide"
+      },
+      {
+        "slug": "haze-seas-noob-to-pro-guide",
+        "file": "haze-seas-noob-to-pro-guide"
+      },
+      {
+        "slug": "haze-seas-second-sea-guide",
+        "file": "haze-seas-second-sea-guide"
+      }
+    ],
+    "links": [
+      {
+        "slug": "haze-seas-discord",
+        "file": "haze-seas-discord"
+      },
+      {
+        "slug": "haze-seas-link-game",
+        "file": "haze-seas-link-game"
+      },
+      {
+        "slug": "haze-seas-official-trailer",
+        "file": "haze-seas-official-trailer"
+      },
+      {
+        "slug": "haze-seas-roblox",
+        "file": "haze-seas-roblox"
+      },
+      {
+        "slug": "haze-seas-trello",
+        "file": "haze-seas-trello"
+      }
+    ],
+    "release": [
+      {
+        "slug": "haze-seas-haze-piece-revamp",
+        "file": "haze-seas-haze-piece-revamp"
+      },
+      {
+        "slug": "haze-seas-launch",
+        "file": "haze-seas-launch"
+      },
+      {
+        "slug": "haze-seas-release-date",
+        "file": "haze-seas-release-date"
+      },
+      {
+        "slug": "haze-seas-rerelease",
+        "file": "haze-seas-rerelease"
+      },
+      {
+        "slug": "haze-seas-roblox-release-date",
+        "file": "haze-seas-roblox-release-date"
+      },
+      {
+        "slug": "haze-seas-update",
+        "file": "haze-seas-update"
+      }
+    ],
+    "styles": [
+      {
+        "slug": "haze-seas-black-leg",
+        "file": "haze-seas-black-leg"
+      },
+      {
+        "slug": "haze-seas-electro",
+        "file": "haze-seas-electro"
+      },
+      {
+        "slug": "haze-seas-fighting-styles",
+        "file": "haze-seas-fighting-styles"
+      }
+    ],
+    "weapons": [
+      {
+        "slug": "haze-seas-all-swords",
+        "file": "haze-seas-all-swords"
+      },
+      {
+        "slug": "haze-seas-reworked-weapons",
+        "file": "haze-seas-reworked-weapons"
+      },
+      {
+        "slug": "haze-seas-sword-locations",
+        "file": "haze-seas-sword-locations"
+      },
+      {
+        "slug": "haze-seas-swords",
+        "file": "haze-seas-swords"
+      },
+      {
+        "slug": "haze-seas-weapon-locations",
+        "file": "haze-seas-weapon-locations"
+      },
+      {
+        "slug": "haze-seas-weapons",
+        "file": "haze-seas-weapons"
+      }
+    ]
+  }
+}

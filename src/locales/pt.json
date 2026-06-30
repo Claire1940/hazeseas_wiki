@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guia",
+    "fruits": "Frutas",
+    "weapons": "Armas",
+    "styles": "Estilos",
+    "release": "Lançamento",
+    "links": "Links"
+  }
+}

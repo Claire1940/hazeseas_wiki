@@ -10,7 +10,15 @@
       "twitterDescription": "Haze Seas Wiki covers Roblox codes, fruits, races, swords, fighting styles, bosses, and pirate progression on Roblox."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "fruits": "Fruits",
+    "weapons": "Weapons",
+    "styles": "Styles",
+    "release": "Release",
+    "links": "Links"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -954,125 +962,145 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Haze Seas Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced fruit, sword, and race strategies for faster Haze Seas progression.",
-      "metaTitle": "Haze Seas Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Haze Seas guides covering beginner tips, Devil Fruits, swords, races, fighting styles, and expert tactics for mastering the Roblox pirate rework.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, progression strategies, codes, and Devil Fruits. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "codes": {
+      "title": "Haze Seas Codes",
+      "description": "Latest working Haze Seas codes for free race spins, gems, stat resets, and trait rerolls. Redeem them in-game for faster pirate progression.",
+      "metaTitle": "Haze Seas Codes - Free Gems & Race Spins",
+      "metaDescription": "Get the latest active Haze Seas codes for free gems, race spins, stat resets, and trait rerolls with step-by-step redemption instructions.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What Are Haze Seas Codes?",
+      "whatIsDescription": "Haze Seas codes are free redeem strings released by Haze Studios that grant bonus rewards such as gems, race spins, stat resets, and trait rerolls. New codes drop alongside major updates, milestones, and seasonal events.",
+      "why": "Why Redeem Haze Seas Codes?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand fruits, swords, and races and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to grind, farm, and boss through Haze Seas",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for PvP, sea events, and late-game builds"
+        "step1Title": "Free Progression Boosts",
+        "step1Description": "Codes grant gems, stat resets, and spins that speed up leveling, fruit rolling, and race changes without grinding.",
+        "step2Title": "Catch Every Update Drop",
+        "step2Description": "New codes ship with each content patch, so checking regularly keeps you ahead of fresh fruits, weapons, and bosses.",
+        "step3Title": "Risk-Free Rerolls",
+        "step3Description": "Trait and race rerolls from codes let you test builds without spending premium currency."
       },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
+      "featured": "Featured Codes",
+      "all": "All Haze Seas Codes"
     },
-    "crafting": {
-      "title": "Haze Seas Fruits and Weapons",
-      "description": "Master Devil Fruits, swords, and special weapons with spawn timers, drop routes, and build strategies for powerful loadouts.",
-      "metaTitle": "Haze Seas Devil Fruits, Swords & Weapons Guide",
-      "metaDescription": "Master Haze Seas Devil Fruits, swords, special weapons, and fighting styles. Learn spawn timers, drop routes, and strategies for building powerful pirate loadouts.",
-      "categoryLabel": "FRUITS & WEAPONS",
-      "whatIs": "What are Fruits and Weapons?",
-      "whatIsDescription": "The core build systems in Haze Seas. Devil Fruits define your ability kit, while swords and special weapons define your melee and sea-event damage routes.",
-      "why": "Why master fruits and weapons?",
+    "guide": {
+      "title": "Haze Seas Guide",
+      "description": "Complete Haze Seas guides for beginners, leveling, bosses, drops, haki, and the Second Sea. Master progression, combat, and exploration.",
+      "metaTitle": "Haze Seas Guide - Beginner to Pro Walkthrough",
+      "metaDescription": "Master Haze Seas with full guides on leveling, haki, bosses, drops, Second Sea, and progression from beginner to pro pirate.",
+      "categoryLabel": "GUIDES",
+      "whatIs": "What Is the Haze Seas Guide?",
+      "whatIsDescription": "The Haze Seas guide hub covers every system you need to progress, from first-spawn beginner tips and fastest leveling routes to boss strategies, drop tables, haki unlocks, and the Second Sea transition.",
+      "why": "Why Read the Haze Seas Guide?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Loadouts",
-        "step1Description": "Discover fruits, swords, and weapons through spawns, shops, and boss drops",
-        "step2Title": "Understand Drop Routes",
-        "step2Description": "Learn where each weapon and fruit comes from to plan your farming",
-        "step3Title": "Optimize Builds",
-        "step3Description": "Combine fruits, weapons, and races into strong grinding and PvP builds"
+        "step1Title": "Level Faster",
+        "step1Description": "Optimized grinding routes and stat builds help you reach max level without wasted effort.",
+        "step2Title": "Beat Every Boss",
+        "step2Description": "Boss breakdowns with level requirements, attack patterns, and drop tables take the guesswork out of fights.",
+        "step3Title": "Unlock the Second Sea",
+        "step3Description": "Step-by-step prerequisites and progression milestones guide you into the Second Sea content."
       },
-      "featured": "Featured & Essential",
-      "all": "All Fruit and Weapon Guides"
+      "featured": "Featured Guides",
+      "all": "All Haze Seas Guides"
     },
-    "items": {
-      "title": "Haze Seas Items",
-      "description": "Detailed item guides covering swords, special weapons, mobility gear, and accessories with drop routes and usage tips.",
-      "metaTitle": "Haze Seas Items - Swords, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Haze Seas including swords, special weapons, mobility gear, and accessories. Learn how to obtain and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for swords, special weapons, mobility gear, and accessories. Learn drop routes, usage strategies, and optimal loadout combinations.",
-      "why": "Why check item guides?",
+    "fruits": {
+      "title": "Haze Seas Fruits",
+      "description": "Every Haze Seas devil fruit covered: abilities, rarities, awakening, and rework details. Find the best fruit for PvP, grinding, and bossing.",
+      "metaTitle": "Haze Seas Fruits - Abilities, Rarities & Awakenings",
+      "metaDescription": "Browse all Haze Seas devil fruits with abilities, rarities, awakening paths, and rework updates to pick the best fruit for PvP and grinding.",
+      "categoryLabel": "DEVIL FRUITS",
+      "whatIs": "What Are Haze Seas Fruits?",
+      "whatIsDescription": "Devil fruits are the signature power system in Haze Seas, granting unique elemental and combat abilities. Each fruit has its own rarity, moveset, awakening path, and role in PvP, grinding, or boss fights.",
+      "why": "Why Study Haze Seas Fruits?",
       "whySteps": {
-        "step1Title": "Learn Drop Routes",
-        "step1Description": "Discover how to obtain essential swords, weapons, and gear",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate dangerous seas"
+        "step1Title": "Pick the Right Fruit",
+        "step1Description": "Compare abilities and rarities to choose a fruit that fits your playstyle and progression goals.",
+        "step2Title": "Plan Awakenings",
+        "step2Description": "Awakening paths and reworks reshape a fruit's moveset, so knowing the route saves reroll time.",
+        "step3Title": "Win More Fights",
+        "step3Description": "Understanding fruit matchups and combos improves performance in PvP and boss encounters."
       },
-      "featured": "Featured & Essential",
-      "all": "All Items"
+      "featured": "Featured Fruits",
+      "all": "All Haze Seas Fruits"
     },
-    "biomes": {
-      "title": "Haze Seas Islands",
-      "description": "Explore islands, seas, sea events, boss locations, resource drops, and survival tips for each region.",
-      "metaTitle": "Haze Seas Islands - Regions, Bosses & Sea Events",
-      "metaDescription": "Explore Haze Seas islands including Shark Park, Sky Islands, Fishman Island, and Skull Island. Find bosses, drops, sea events, and plan your progression route.",
-      "categoryLabel": "ISLANDS & SEAS",
-      "whatIs": "What are Islands?",
-      "whatIsDescription": "Guides to different islands, seas, sea events, boss locations, and drop distribution. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore islands?",
+    "weapons": {
+      "title": "Haze Seas Weapons",
+      "description": "Full Haze Seas swords and weapons list with locations, stats, and rework details. Find the best blade for your build and playstyle.",
+      "metaTitle": "Haze Seas Weapons & Swords - Locations & Stats",
+      "metaDescription": "Discover every Haze Seas sword and weapon with locations, stats, rarities, and rework updates to build the strongest loadout.",
+      "categoryLabel": "WEAPONS",
+      "whatIs": "What Are Haze Seas Weapons?",
+      "whatIsDescription": "Weapons and swords are core combat gear in Haze Seas, each with unique locations, stats, attack patterns, and rarities. Reworked weapons add refreshed movesets and balance updates that shift the meta.",
+      "why": "Why Track Haze Seas Weapons?",
       "whySteps": {
-        "step1Title": "Find Bosses",
-        "step1Description": "Locate bosses and super bosses specific to each island route",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand enemy threats and sea-event timing",
-        "step3Title": "Plan Progression",
-        "step3Description": "Prepare the right fruits, weapons, and gear for each sea"
+        "step1Title": "Find Every Blade",
+        "step1Description": "Exact locations and acquisition methods mean you never miss a strong sword on your journey.",
+        "step2Title": "Build the Best Loadout",
+        "step2Description": "Stats and rarities help you compare options and pair weapons with the right fruit and fighting style.",
+        "step3Title": "Stay Current with Reworks",
+        "step3Description": "Weapon reworks rebalance damage and movesets, so tracking updates keeps your build competitive."
       },
-      "featured": "Featured & Essential",
-      "all": "All Islands"
+      "featured": "Featured Weapons",
+      "all": "All Haze Seas Weapons"
     },
-    "building": {
-      "title": "Haze Seas Builds",
-      "description": "Master fruit, sword, race, and fighting style combinations for grinding, bossing, PvP, and sea-event builds.",
-      "metaTitle": "Haze Seas Builds - Fruit, Sword & Race Combinations",
-      "metaDescription": "Master Haze Seas builds with fruit, sword, race, and fighting style combinations for grinding, bossing, PvP, and sea events.",
-      "categoryLabel": "BUILDS & LOADOUTS",
-      "whatIs": "What are Builds?",
-      "whatIsDescription": "Guides to combining Devil Fruits, swords, fighting styles, and races into effective builds. Learn to create loadouts for grinding, PvP, and late-game content.",
-      "why": "Why plan builds?",
+    "styles": {
+      "title": "Haze Seas Fighting Styles",
+      "description": "Haze Seas fighting styles like Black Leg and Electro explained: moves, unlock requirements, and best use cases for PvP and grinding.",
+      "metaTitle": "Haze Seas Fighting Styles - Black Leg, Electro & More",
+      "metaDescription": "Learn every Haze Seas fighting style including Black Leg and Electro with moves, unlock requirements, and best uses for PvP and grinding.",
+      "categoryLabel": "FIGHTING STYLES",
+      "whatIs": "What Are Haze Seas Fighting Styles?",
+      "whatIsDescription": "Fighting styles are melee combat disciplines in Haze Seas that define your close-range moveset. Styles like Black Leg and Electro each offer distinct combos, mobility, and unlock paths for PvP and grinding.",
+      "why": "Why Learn Haze Seas Fighting Styles?",
       "whySteps": {
-        "step1Title": "Create Strong Loadouts",
-        "step1Description": "Combine fruits, weapons, and races into synergistic builds",
-        "step2Title": "Match Your Goals",
-        "step2Description": "Pick builds for grinding, bossing, PvP, or sea events",
-        "step3Title": "Use Spins Well",
-        "step3Description": "Spend race spins and rerolls on rolls that fit your build"
+        "step1Title": "Expand Your Moveset",
+        "step1Description": "Each style unlocks unique combos and mobility options that complement fruit and weapon builds.",
+        "step2Title": "Know the Unlock Path",
+        "step2Description": "Clear requirements tell you exactly when and where to pick up each fighting style.",
+        "step3Title": "Match Style to Mode",
+        "step3Description": "Different styles excel in PvP versus grinding, so choosing the right one maximizes efficiency."
       },
-      "featured": "Featured & Essential",
-      "all": "All Build Guides"
+      "featured": "Featured Styles",
+      "all": "All Haze Seas Fighting Styles"
     },
-    "support": {
-      "title": "Haze Seas Support",
-      "description": "Controls, platform compatibility, mobile and console setup, and troubleshooting for common Haze Seas issues.",
-      "metaTitle": "Haze Seas Support - Controls, Platforms & Fixes",
-      "metaDescription": "Get support for Haze Seas including controls, mobile and console setup, platform compatibility, and troubleshooting for common issues.",
-      "categoryLabel": "SUPPORT & SETUP",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Guides covering controls, platform compatibility, mobile and console setup, and common issues. Get help with device setup, fruit stock, and update questions.",
-      "why": "Why check support?",
+    "release": {
+      "title": "Haze Seas Release",
+      "description": "Haze Seas release dates, updates, launch details, and the Haze Piece revamp timeline. Track every version and what changed.",
+      "metaTitle": "Haze Seas Release Date, Updates & Launch Info",
+      "metaDescription": "Find Haze Seas release dates, update notes, launch details, and the full Haze Piece revamp timeline in one place.",
+      "categoryLabel": "RELEASE & UPDATES",
+      "whatIs": "What Is Haze Seas Release Info?",
+      "whatIsDescription": "The release section tracks Haze Seas launch dates, major updates, rerelease milestones, and the Haze Piece revamp that redefined the game. It covers what shipped and when, from launch dates to content patches.",
+      "why": "Why Follow Haze Seas Release Info?",
       "whySteps": {
-        "step1Title": "Fix Issues",
-        "step1Description": "Resolve controls, performance, and compatibility problems",
-        "step2Title": "Optimize Setup",
-        "step2Description": "Configure your device for the best Haze Seas experience",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about PC, mobile, Xbox, and controller support"
+        "step1Title": "Never Miss an Update",
+        "step1Description": "Update notes tell you which fruits, weapons, bosses, and balance changes arrived in each patch.",
+        "step2Title": "Understand the Revamp",
+        "step2Description": "The Haze Piece revamp timeline explains how the game evolved into the current Haze Seas experience.",
+        "step3Title": "Plan Around Launches",
+        "step3Description": "Knowing release and rerelease dates helps you time your grind around fresh content drops."
       },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "featured": "Featured Release Notes",
+      "all": "All Haze Seas Release Info"
+    },
+    "links": {
+      "title": "Haze Seas Links",
+      "description": "Official Haze Seas links: Roblox game page, Trello, Discord, trailer, and game-link guides. Connect with the community and developer channels.",
+      "metaTitle": "Haze Seas Links - Trello, Discord, Roblox & Trailer",
+      "metaDescription": "Find official Haze Seas links including the Roblox game page, Trello board, Discord server, official trailer, and account-linking guides.",
+      "categoryLabel": "OFFICIAL LINKS",
+      "whatIs": "What Are Haze Seas Links?",
+      "whatIsDescription": "The links hub collects every official Haze Seas channel: the Roblox game page, Trello roadmap, Discord community, official trailer, and account-linking guides that connect your Roblox account across platforms.",
+      "why": "Why Use Haze Seas Links?",
+      "whySteps": {
+        "step1Title": "Join the Community",
+        "step1Description": "Discord and Trello keep you connected to announcements, patch notes, and fellow players.",
+        "step2Title": "Track the Roadmap",
+        "step2Description": "The Trello board shows upcoming features, fruit reworks, and balance plans from Haze Studios.",
+        "step3Title": "Link Your Account",
+        "step3Description": "Account-linking guides help you sync progress and claim cross-platform rewards."
+      },
+      "featured": "Featured Links",
+      "all": "All Haze Seas Links"
     }
   }
 }

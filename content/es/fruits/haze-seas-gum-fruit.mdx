@@ -1,0 +1,172 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Fruta Gum de Haze Seas: Guía Completa de Progresión Gear 4 y Builds",
+  description: "Domina la Fruta Gum de Haze Seas con nuestra guía completa. Aprende sobre su rareza, conjunto de movimientos, progresión a Gear 4 y las mejores builds para PvP y PvE.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/1e293b/fff?text=Gum+Fruit+Guide",
+  date: "2026-06-30",
+  author: "Equipo de la Wiki de Haze Seas",
+  keywords: "haze seas, fruta gum, gear 4, guía, build, pvp, pve"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Arma principal**: La **fruta gum de haze seas** es una fruta de tipo Paramecia Legendaria que escala increíblemente bien desde el leveleo a mitad del juego hasta el PvP de nivel avanzado.
+- **Transformación clave**: Desbloquear el **Gear 4** requiere alcanzar el Nivel 2000 y farmear al Jefe G4 en Bubble Island para obtener el Libro del Gear 4.
+- **Mejores estadísticas**: Enfoca tus puntos de estadística fuertemente en **Fruta** y **Defensa** para maximizar tu daño y supervivencia durante las transformaciones.
+- **Clasificación en el Meta**: Clasificada inicialmente como una sólida **fruta de progresión de Nivel B**, pero sube al **Nivel S** una vez que se desbloquea el Gear 4.
+</Callout>
+
+<Section icon={Sparkles} title="Resumen y Rareza de la Fruta Gum">
+
+La **fruta gum de haze seas** (conocida históricamente como la Fruta Goma o Gomu Gomu no Mi) es una de las frutas de tipo Paramecia Legendaria más icónicas y versátiles disponibles en el juego. Conocida por su mezcla única de alta movilidad, gran retroceso y estados de transformación devastadores, esta fruta es un activo muy codiciado tanto para el farmeo PvE como para los duelos competitivos PvP. A diferencia de las frutas Logia que ofrecen intangibilidad elemental pasiva, la Fruta Gum depende de la mitigación de daño activa, ataques físicos de disparo rápido y movilidad elástica para abrumar a los oponentes.
+
+En el rediseño de 2026 de Haze Seas, los desarrolladores han ajustado el motor de física, haciendo que el movimiento elástico de la Fruta Gum se sienta increíblemente fluido. Los jugadores pueden lanzarse a través de las islas, ejecutar cambios rápidos de dirección en el aire y transicionar sin problemas entre el combate base y las transformaciones avanzadas. Aunque comienza como una herramienta de progresión muy capaz, su verdadero potencial se desbloquea en el juego tardío cuando comienzas a buscar sus Gears avanzados.
+
+| Parámetro | Detalle | Impacto en el Juego |
+|--- |--- |--- |
+| **Rareza** | Legendaria | Conjunto de movimientos muy gratificante con bajas tasas de obtención |
+| **Tipo** | Paramecia | Estilo de combate activo centrado en combos físicos |
+| **Rol Principal** | Combo y Transformación | Escala desde el leveleo a mitad del juego hasta el PvP de nivel S en el endgame |
+| **Movilidad** | Alta (vía Gum Rocket y Gear 2) | Excelente para recorrer islas y esquivar los ataques de área (AOE) de los jefes |
+
+<Callout type="tip" title="Consejo Pro">
+Como tipo Paramecia, no obtienes inmunidad elemental pasiva contra NPCs de nivel inferior. Para compensar, mantén siempre tu estadística de Defensa lo suficientemente alta como para sobrevivir a grupos de enemigos mientras subes de nivel.
+</Callout>
+
+</Section>
+
+<Section icon={Swords} title="Conjunto de Movimientos y Mecánicas de Combate de la Fruta Gum">
+
+El conjunto de movimientos de la Fruta Gum se divide en tres fases distintas: Forma Base, Gear 2 y la mítica transformación Gear 4 Boundman. Cada fase altera completamente tu ciclo de combate, los enfriamientos de habilidades y las propiedades de movimiento. Entender cuándo rotar a través de estas formas es la clave para dominar tanto las peleas contra jefes de alto nivel como los combates PvP de ritmo rápido.
+
+En la Forma Base, tus habilidades se centran en el hostigamiento a media distancia y el control de masas. Cuando transicionas al Gear 2, tus ataques ganan mejoras masivas de velocidad y animaciones alteradas, lo que te permite ejecutar combos a la velocidad del rayo. El Gear 4 Boundman anula completamente tu kit básico, convirtiéndote en un coloso aerotransportado capaz de romper bloqueos e infligir un daño masivo en área.
+
+| Nombre del Movimiento | Efecto Base | Mejora en Gear 2 |
+|--- |--- |--- |
+| **Gum Pistol** | Puñetazo directo a un solo objetivo con retroceso medio | Ejecución más rápida, marcos de inicio reducidos, quemadura añadida |
+| **Gum Gatling** | Puñetazos rápidos de múltiples golpes en un cono frontal | Mayor número de golpes, área de efecto más amplia y mayor presión sobre el escudo |
+| **Gum Bazooka** | Golpe de doble palma que inflige gran retroceso | Capacidad añadida de ruptura de escudo y mayor daño base |
+| **Gum Rocket** | Tira al jugador hacia un punto objetivo o terreno | Velocidad de viaje más rápida e inicio instantáneo |
+
+Cuando progresas al juego tardío y adquieres la transformación Gear 4, tu conjunto de movimientos se actualiza al kit de Boundman. Esta forma consume estamina continuamente pero proporciona una presión ofensiva inigualable.
+
+| Nombre de Habilidad | Descripción | Aplicación en Combate |
+|--- |--- |--- |
+| **Kong Gun** | Puñetazo comprimido de alto impacto | Daño de ráfaga principal y rompebloqueo instantáneo |
+| **Rhino Schneider** | Doble patada voladora desde arriba | Excelente para cerrar distancias e iniciador de combate de área |
+| **Culverin** | Puñetazo direccional con seguimiento | Ideal para atrapar a oponentes que esquivan en PvP |
+| **Kong Organ** | Andanada masiva de disparos rápidos en área | Lo mejor para limpiar grupos de jefes y grandes hordas en PvE |
+
+<Callout type="warning" title="Gestión de Estamina">
+El Gear 4 Boundman agota tu barra de estamina rápidamente. Si tu estamina llega a cero, te verás obligado a volver a la Forma Base y quedarás vulnerable temporalmente. Vigila siempre tu estamina o combina la build con razas que aumenten la estamina.
+</Callout>
+
+</Section>
+
+<Section icon={Map} title="Cómo Obtener la Fruta Gum de Haze Seas y el Libro del Gear 4">
+
+Adquirir la **fruta gum de haze seas** y mejorarla completamente a su estado Gear 4 es un viaje de varios pasos que abarca desde los primeros mares hasta las islas de mayor nivel. Hay tres métodos principales para obtener la fruta base: apariciones aleatorias en el mapa, el sistema Gacha del juego o revisando el stock en vivo.
+
+Una vez que hayas asegurado la fruta base, tu próximo gran hito es desbloquear la transformación Gear 4 Boundman. Esto requiere que llegues al juego tardío, viajes a Bubble Island y derrotes a un poderoso jefe para que suelte un objeto de progresión específico.
+
+<Steps>
+  <Step num="1" title="Obtén la Fruta Gum Base">
+    Puedes tirar por la fruta a través del NPC Gacha usando Dinero o Gemas, comprarla cuando aparezca en el stock en vivo, o buscar apariciones. Las frutas aparecen bajo árboles aleatorios en el mapa cada 60 minutos y desaparecen después de 20 minutos.
+  </Step>
+  <Step num="2" title="Alcanza el Nivel 2000">
+    Antes de intentar farmear la mejora del Gear 4, debes subir de nivel a tu personaje. El Jefe G4 es muy resistente e inflige un daño inmenso, lo que hace que el Nivel 2000 sea el mínimo recomendado para luchar contra él de manera eficiente.
+  </Step>
+  <Step num="3" title="Viaja a Bubble Island">
+    Bubble Island se encuentra en el sector de juego tardío del Primer Mar. Asegúrate de establecer tu punto de aparición cerca, ya que probablemente necesitarás derrotar al jefe varias veces para asegurar el drop.
+  </Step>
+  <Step num="4" title="Derrota al Jefe G4">
+    Localiza y desafía al Jefe G4 en Bubble Island. Utiliza el conjunto de movimientos completo del Gear 4 Boundman, así que mantén la distancia durante su ráfaga de Kong Organ y ataca durante sus enfriamientos de habilidades.
+  </Step>
+  <Step num="5" title="Usa el Libro del Gear 4">
+    El Jefe G4 tiene la posibilidad de soltar el raro **Libro del Gear 4**. Una vez obtenido, consume el libro mientras tienes equipada la Fruta Gum para desbloquear permanentemente la transformación Boundman.
+  </Step>
+</Steps>
+
+<Callout type="success" title="Ventaja del Servidor VIP">
+Si estás buscando apariciones de frutas naturales, utiliza un servidor VIP. Los servidores VIP tienen un límite estricto de 5 apariciones de frutas, lo que te permite realizar rutas de farmeo limpias sin competencia de otros jugadores.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Optimización de Build, Sinergia de Razas y Estado en la Tier List">
+
+Para maximizar el potencial de tu Fruta Gum, debes optimizar la asignación de tus puntos de estadística y combinar la fruta con una raza altamente compatible. Debido a que el Gear 4 depende en gran medida del consumo continuo de estamina y del escalado físico de alto impacto, tu build debe centrarse en mantener tu transformación mientras maximizas tu daño de ráfaga.
+
+En la tier list oficial de Haze Seas, la Fruta Gum se sitúa cómodamente en el **Nivel B** para la progresión temprana debido a su falta de defensa elemental pasiva. Sin embargo, una vez que desbloqueas el Gear 4, se dispara al **Nivel S** para el farmeo de jefes en el juego tardío y el PvP competitivo debido a su alta capacidad para romper escudos y su movilidad aérea.
+
+<CardGrid cols={3}>
+  <Card title="El Boundman de Fruta Pura">
+    - **Máx Estadística de Fruta**: Maximiza el daño de Kong Gun y Culverin.
+    - **Alta Defensa**: Asegura que puedas intercambiar golpes en distancias cortas.
+    - **Soporte de Estamina**: Invierte el 15% de tus puntos en Estamina.
+  </Card>
+  <Card title="El Gladiador Híbrido">
+    - **Estadísticas Equilibradas**: Divide puntos entre Fruta y Espada.
+    - **Sinergia de Armas**: Combina con Shusui o Enma para extensiones de combo.
+    - **Alta Utilidad**: Ideal para estilos de juego PvP flexibles.
+  </Card>
+  <Card title="El Tanque de Raids">
+    - **Máx Defensa**: Prioriza la supervivencia en eventos marinos de alto nivel.
+    - **Raza Fishman**: Proporciona alta velocidad de nado y salud pasiva.
+    - **Combate Sostenido**: Se centra en resistir más que los jefes en lugar del daño puro.
+  </Card>
+</CardGrid>
+
+Al optimizar tu personaje, tu elección de raza juega un papel masivo. La raza mítica **Clan D.** (0.1% de probabilidad de obtención) es la mejor opción absoluta, ofreciendo +10% de regeneración de salud, +10% de estamina y Espíritu del Conquistador. Si no puedes obtener el Clan D., las razas legendarias **Dragonoid** o **Lunarian** son excelentes alternativas, proporcionando saltos masivos y regeneración pasiva para compensar el estilo de juego agresivo del Gear 4.
+
+<Checklist
+  id="gum-fruit-checklist"
+  title="Lista de Verificación de la Fruta Gum:"
+  items={[
+    "Obtener la Fruta Gum base del Gacha, Stock o apariciones en el mapa",
+    "Alcanzar el Nivel 2000 y localizar Bubble Island",
+    "Farmear al Jefe G4 hasta obtener el Libro del Gear 4",
+    "Tirar por una raza de estamina de alto nivel como Clan D., Dragonoid o Lunarian",
+    "Asignar al menos el 60% de tus puntos de estadística ofensiva a la categoría de Fruta"
+  ]}
+/>
+
+<Callout type="tip" title="Sinergia de Estilo de Lucha">
+Combina la Fruta Gum con los estilos de lucha Black Leg o Cyborg. Estos estilos ofrecen iniciadores de combo de corto alcance que te permiten inmovilizar a los oponentes antes de desatar una ráfaga completa de Gum Gatling o Kong Organ.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿Es la Fruta Gum de Haze Seas buena para principiantes?",
+    answer: "Es una fruta de progresión decente para la mitad del juego, pero carece de la protección elemental pasiva de las frutas Logia. Realmente brilla en el juego tardío una vez que alcanzas el Nivel 2000 y desbloqueas la transformación Gear 4 Boundman."
+  },
+  {
+    question: "¿Dónde cae el Libro del Gear 4 y cuál es la tasa de drop?",
+    answer: "El Libro del Gear 4 cae del Jefe G4 ubicado en Bubble Island en el Primer Mar. El drop se basa en un porcentaje, lo que significa que es posible que necesites derrotar al jefe varias veces para asegurarlo."
+  },
+  {
+    question: "¿Qué raza es mejor para combinar con la Fruta Gum?",
+    answer: "La mítica Clan D. es la mejor en general debido a sus bonificaciones de estamina, salud y velocidad. Las opciones legendarias como Dragonoid y Lunarian también son muy recomendables por su regeneración pasiva y soporte de movilidad."
+  },
+  {
+    question: "¿Puedo usar espadas mientras estoy transformado en Gear 4 Boundman?",
+    answer: "No, activar el Gear 4 Boundman anula completamente tu conjunto de movimientos activos con habilidades físicas únicas basadas en goma, aunque aún puedes beneficiarte de las mejoras pasivas de los accesorios."
+  }
+]} />
+
+<Callout type="info" title="Veredicto Final">
+La Fruta Gum es una opción muy gratificante y con un alto techo de habilidad en Haze Seas. Con una distribución de estadísticas adecuada, una raza sólida de estamina y la transformación Gear 4 Boundman desbloqueada, puedes dominar fácilmente tanto las raids PvE de alto nivel como los combates PvP competitivos.
+</Callout>
+
+</Section>

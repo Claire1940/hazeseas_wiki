@@ -1,1 +1,11 @@
-{}
+{
+  "nav": {
+    "codes": "コード",
+    "guide": "ガイド",
+    "fruits": "悪魔の実",
+    "weapons": "武器",
+    "styles": "スタイル",
+    "release": "リリース",
+    "links": "リンク"
+  }
+}
