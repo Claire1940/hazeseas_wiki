@@ -1,4 +1,15 @@
 {
+  "seo": {
+    "home": {
+      "title": "Haze Seas Wiki - Códigos, Frutas e Estilos de Luta",
+      "description": "A Haze Seas Wiki cobre códigos Roblox, frutas, raças, espadas, estilos de luta, chefes, ilhas, links do Trello e notas de atualização para uma progressão pirata mais rápida.",
+      "keywords": "Haze Seas, Roblox, códigos, frutas, raças, espadas, chefes, Trello",
+      "ogTitle": "Haze Seas Wiki - Códigos, Frutas e Estilos de Luta",
+      "ogDescription": "A Haze Seas Wiki cobre códigos Roblox, frutas, raças, espadas, estilos de luta, chefes, ilhas, links do Trello e notas de atualização para uma progressão pirata mais rápida.",
+      "twitterTitle": "Haze Seas Wiki - Códigos, Frutas e Estilos de Luta",
+      "twitterDescription": "A Haze Seas Wiki cobre códigos Roblox, frutas, raças, espadas, estilos de luta, chefes e progressão pirata no Roblox."
+    }
+  },
   "nav": {
     "codes": "Códigos",
     "guide": "Guia",
@@ -7,5 +18,1089 @@
     "styles": "Estilos",
     "release": "Lançamento",
     "links": "Links"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar para o Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "RPG de Ação Pirata no Roblox",
+    "title": "Haze Seas Wiki",
+    "description": "Explore Haze Seas no Roblox com códigos, cronômetros de spawn de frutas, raças, espadas, estilos de luta, chefes, ilhas e notas de atualização para uma progressão pirata mais rápida.",
+    "getFreeCodesCTA": "Obter Códigos Gratuitos",
+    "playOnRobloxCTA": "Jogar no Roblox",
+    "stats": {
+      "stat1": {
+        "value": "239M+",
+        "label": "Total de Visitas"
+      },
+      "stat2": {
+        "value": "34",
+        "label": "Frutas Disponíveis"
+      },
+      "stat3": {
+        "value": "97.0%",
+        "label": "Avaliação dos Usuários"
+      },
+      "stat4": {
+        "value": "30 de jun. de 2026",
+        "label": "Lançamento do Rework"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jogabilidade de Haze Seas",
+    "description": "Navegue pelas ilhas, cace Frutas do Diabo, domine espadas e estilos de luta, gire raças poderosas e enfrente chefes e eventos marítimos neste rework de RPG de ação pirata no Roblox da Haze Studios."
+  },
+  "tools": {
+    "title": "Haze Seas",
+    "titleHighlight": "Recursos",
+    "subtitle": "Tudo o que você precisa para progredir mais rápido no Haze Seas no Roblox",
+    "cards": [
+      {
+        "icon": "Presente",
+        "title": "Códigos de Haze Seas",
+        "description": "Códigos ativos e expirados com passos de resgate"
+      },
+      {
+        "icon": "Link",
+        "title": "Links Oficiais de Haze Seas",
+        "description": "Canais do Trello, Discord, Roblox, YouTube e X"
+      },
+      {
+        "icon": "Bússola",
+        "title": "Guia de Iniciante de Haze Seas",
+        "description": "Controles, primeira build, frutas e fluxo inicial"
+      },
+      {
+        "icon": "Cereja",
+        "title": "Frutas do Diabo de Haze Seas",
+        "description": "Timers de spawn, estoque, lista e despertares"
+      },
+      {
+        "icon": "Troféu",
+        "title": "Tier List de Haze Seas",
+        "description": "Frutas, armas, raças e estilos ranqueados"
+      },
+      {
+        "icon": "Usuários",
+        "title": "Raças de Haze Seas",
+        "description": "Raridades de raças, bônus e estratégia de giros"
+      },
+      {
+        "icon": "Espadas",
+        "title": "Armas e Estilos de Haze Seas",
+        "description": "Espadas, armas especiais e estilos de luta"
+      },
+      {
+        "icon": "Caveira",
+        "title": "Chefes e Ilhas de Haze Seas",
+        "description": "Rotas de chefes, eventos marítimos e drops"
+      }
+    ]
+  },
+  "modules": {
+    "hazeSeasCodes": {
+      "title": "Códigos de Haze Seas",
+      "intro": "Resgate códigos de Haze Seas no menu do jogo através do Baú do Tesouro ou da janela de código de Presente para ganhar dinheiro grátis, giros de raça, gemas, boosts de EXP e resets de status. Novos códigos geralmente estão vinculados a atualizações, trailers, metas da comunidade e recompensas de grupo.",
+      "items": [
+        {
+          "name": "HAZESEAS2026",
+          "type": "Recompensas Grátis",
+          "description": "Ativo — sem requisitos"
+        },
+        {
+          "name": "GROUPONLY",
+          "type": "10.000 em Dinheiro",
+          "description": "Ativo — entre no grupo da Haze Studios no Roblox"
+        },
+        {
+          "name": "HAZEPIECE23",
+          "type": "Giros de Raça",
+          "description": "Código de meta expirado"
+        },
+        {
+          "name": "UPDATESARECOMING",
+          "type": "Giros de Raça + Bônus de EXP",
+          "description": "Código de marco expirado"
+        },
+        {
+          "name": "GOGOGAGA",
+          "type": "Giros de Raça + Bônus de EXP",
+          "description": "Código de marco expirado"
+        },
+        {
+          "name": "GEAR5TH",
+          "type": "Giros de Raça, Gemas, Bônus de EXP",
+          "description": "Código de marco expirado"
+        },
+        {
+          "name": "250KLETSGO",
+          "type": "Giros de Raça, Gemas, Redefinição de Atributos",
+          "description": "Código de marco expirado"
+        },
+        {
+          "name": "220KLIKES4CODE",
+          "type": "Giros de Raça, Gemas, Redefinição de Atributos",
+          "description": "Código de marco expirado"
+        },
+        {
+          "name": "DRAGONUPDATE23",
+          "type": "Giros de Raça, Gemas, Bônus de EXP",
+          "description": "Código de marco expirado"
+        },
+        {
+          "name": "WOW190KFORNEXT",
+          "type": "Giros de Raça, Gemas, Redefinição de Atributos",
+          "description": "Código de marco expirado"
+        },
+        {
+          "name": "LETSGET450K2024",
+          "type": "Recompensas de Marco",
+          "description": "Código de marco expirado"
+        },
+        {
+          "name": "VALENTINES2024",
+          "type": "Recompensas de Evento",
+          "description": "Código de evento expirado"
+        }
+      ],
+      "unlockMilestones": [
+        "Inicie o Haze Seas a partir da página oficial do Roblox",
+        "Abra o botão de Menu",
+        "Selecione o ícone do Baú do Tesouro ou de código de Presente",
+        "Cole o código exatamente como escrito",
+        "Pressione Resgatar e receba a recompensa"
+      ]
+    },
+    "hazeSeasOfficialLinks": {
+      "title": "Links Oficiais do Haze Seas",
+      "intro": "O Haze Seas usa vários canais oficiais: Trello para dados estruturados do jogo, Discord para anúncios ao vivo e estoque de frutas, Roblox para o jogo e o grupo, YouTube para trailers e demonstrações, e X para postagens rápidas de atualização.",
+      "cards": [
+        {
+          "name": "Trello Oficial do Haze Seas",
+          "description": "A principal referência estruturada para informações do jogo, códigos, controles, Sistema de Baús, Sistema de Maestria, Sistema de Recompensa, Eventos Marítimos, Devil Fruits, Espadas, Estilos de Luta, Raças, NPCs, Chefes e locais."
+        },
+        {
+          "name": "Discord da Haze Studios",
+          "description": "O hub da comunidade ao vivo para anúncios do jogo, correções, lançamentos de códigos, rastreamento de estoque de frutas, perguntas e relatórios de bugs."
+        },
+        {
+          "name": "Página do Jogo Haze Seas no Roblox",
+          "description": "A página oficial da experiência no Roblox para HAZE PIECE e a reformulação do Haze Seas, incluindo suporte a dispositivos, notas de passes de jogo e informações sobre o surgimento de frutas."
+        },
+        {
+          "name": "Grupo Roblox da Haze Studios",
+          "description": "A página oficial da comunidade da Haze Studios no Roblox. Fazer parte do grupo também desbloqueia recompensas exclusivas de grupo, como o código GROUPONLY."
+        },
+        {
+          "name": "YouTube da Haze Studios",
+          "description": "O canal oficial de vídeos para trailers de Haze Seas, vídeos de lançamento, cutscenes de despertar de frutas e demonstrações de gameplay."
+        },
+        {
+          "name": "X do Haze Seas",
+          "description": "A conta oficial do X para anúncios rápidos de Haze Seas, postagens de trailers, clipes de demonstração e postagens de atualização relacionadas a códigos."
+        }
+      ],
+      "milestones": [
+        "Quadro de Referência",
+        "Servidor da Comunidade",
+        "Página do Jogo",
+        "Grupo do Roblox",
+        "Canal de Vídeos",
+        "Atualizações Sociais"
+      ]
+    },
+    "hazeSeasBeginnerGuide": {
+      "title": "Guia de Iniciante de Haze Seas",
+      "intro": "Haze Seas é o rework do RPG de ação do Roblox da Haze Studios construído em torno de ilhas, inimigos, chefes, frutas, espadas, estilos de luta, raças, maestria, recompensa e eventos marítimos. Use este fluxo inicial para progredir suavemente da sua primeira ilha até as rotas de fim de jogo.",
+      "steps": [
+        {
+          "title": "Iniciar a Experiência Oficial do Roblox",
+          "description": "Comece a partir da página oficial do HAZE PIECE no Roblox, que está vinculada ao rework do Haze Seas pela Haze Studios. Adicione a experiência aos favoritos ou siga-a antes de entrar em um servidor."
+        },
+        {
+          "title": "Escolha a Configuração do Seu Dispositivo",
+          "description": "A página do jogo lista suporte para Xbox e celular, então você pode começar no PC, celular ou console. Use o dispositivo que você controla com mais conforto e verifique o card de controles do Trello antes de lutar contra chefes."
+        },
+        {
+          "title": "Leia as Informações do Jogo Antes de Fazer o Grind",
+          "description": "A coluna Game Info do Trello cobre controles, códigos, Sistema de Baús, Sistema de Maestria e Sistema de Recompensa. Verifique as Informações do Jogo primeiro, depois ramifique para Devil Fruits, Espadas, Estilos de Luta, Raças, NPCs e Chefes."
+        },
+        {
+          "title": "Resgate os Códigos Cedo",
+          "description": "Os códigos concedem dinheiro, giros de raça, gemas, boosts de EXP e resets de atributos, que importam mais antes de uma longa sessão de grind. Abra o Menu, selecione o ícone de Baú de Tesouro ou de Presente para códigos, cole um código e resgate antes de subir de nível."
+        },
+        {
+          "title": "Escolha uma Primeira Build Simples",
+          "description": "Mantenha Defesa suficiente para sobreviver enquanto escolhe se o seu caminho principal de dano virá de Fruta, Espada, Estilo de Luta ou Combate. Escolha uma rota principal de dano e use o Trello para comparar as habilidades relacionadas."
+        },
+        {
+          "title": "Rastreie as Devil Fruits",
+          "description": "As frutas surgem a cada 60 minutos e desaparecem após 20 minutos. Servidores VIP podem reter spawns de frutas com um limite de 5 frutas. Use o canal fruit-stock do Discord e os cards de frutas do Trello antes de trocar de fruta."
+        },
+        {
+          "title": "Use o Discord para o Status do Jogo ao Vivo",
+          "description": "O servidor do Discord separa anúncios, códigos, estoque de frutas, perguntas e relatórios de bugs em canais. Verifique o canal game-announcement para hotfixes, o codes para recompensas e o fruit-stock para rastreamento."
+        },
+        {
+          "title": "Assista às Demonstrações Oficiais",
+          "description": "A Haze Studios posta trailers, vídeos de lançamento, cenas de despertar de frutas e clipes de demonstração no YouTube. Use os vídeos oficiais para ter uma prévia do estilo de combate, das animações das frutas e da direção das atualizações antes de se comprometer com uma build."
+        }
+      ],
+      "quickTips": [
+        "Trate o Trello e o Discord oficiais como parte do seu kit de ferramentas principal.",
+        "Escolha uma rota principal de dano em vez de distribuir todos os atributos por igual.",
+        "Verifique o estoque de frutas no Discord antes de gastar dinheiro, gemas ou rerolls.",
+        "Mantenha Defesa suficiente para sobreviver enquanto sua rota de dano entra em ação."
+      ]
+    },
+    "hazeSeasDevilFruits": {
+      "title": "Devil Fruits de Haze Seas",
+      "intro": "As Devil Fruits são um dos principais caminhos de build em Haze Seas. As escolhas de frutas moldam a velocidade de grind, a pressão no PvP, a mobilidade e o farm de chefes. Use estes dados concretos para planejar spawns, estoque e despertares.",
+      "solutions": [
+        {
+          "name": "Temporizador de Spawn de Frutas",
+          "role": "60 minutos",
+          "description": "Uma fruta surge no mapa a cada 60 minutos. Verifique o mapa ou o canal de estoque perto do temporizador de hora em hora em vez de procurar aleatoriamente."
+        },
+        {
+          "name": "Temporizador de Despawn de Frutas",
+          "role": "20 minutos",
+          "description": "Uma fruta que surgiu desaparece após 20 minutos. Mova-se rapidamente após uma fruta aparecer, especialmente em servidores públicos onde outros jogadores também estão caçando."
+        },
+        {
+          "name": "Limite de Frutas em Servidor VIP",
+          "role": "Limite de 5 frutas",
+          "description": "Frutas podem surgir em servidores VIP com um limite listado de 5. Use servidores VIP para rotas de caça de frutas mais limpas e menos interrupções."
+        },
+        {
+          "name": "Rastreamento de Estoque de Frutas",
+          "role": "Discord #fruit-stock",
+          "description": "O Discord oficial inclui um canal de estoque de frutas (#fruit-stock) para rastreamento ao vivo de Devil Fruits. Verifique o estoque antes de gastar dinheiro, gemas ou rerolls."
+        },
+        {
+          "name": "Cartões de Dados de Frutas",
+          "role": "Trello Devil Fruits",
+          "description": "O Trello oficial separa as Devil Fruits em sua própria área de referência, junto com Espadas, Estilos de Luta, Raças, NPCs e Chefes. Abra o cartão da fruta antes de substituir sua fruta atual."
+        },
+        {
+          "name": "Lista de Frutas Conhecidas",
+          "role": "33 frutas",
+          "description": "Clear, Chop, Spin, Spike, Bomb, Barrier, Paw, Smoke, Sand, String, Mammoth, Buddha, Snow, Tremor, Gas, Gravity, Flame, Shadow, Light, Operation, Ice, Electricity, Magma, Love, Gum, Darkness, Magnet, Phoenix, Soul, Leopard, Venom, Dragon e Dough."
+        },
+        {
+          "name": "Despertares",
+          "role": "Cutscene de Despertar",
+          "description": "A Haze Studios publicou um vídeo da cutscene de despertar de fruta do Haze Seas, tornando os despertares um tópico principal para os jogadores de frutas."
+        },
+        {
+          "name": "Uso para Grinding",
+          "role": "Dano em área + mobilidade",
+          "description": "Para subir de nível, os jogadores buscam movimentos de fruta que limpem grupos, permitam viajar entre ilhas ou causem dano a chefes com segurança. Classifique as frutas por função de farming após testar movimentos e tempos de recarga."
+        },
+        {
+          "name": "Uso para PvP",
+          "role": "Pressão + dano explosivo",
+          "description": "Para PvP, o valor da fruta depende de quão bem o conjunto de movimentos cria aberturas, estende combos, evita punições ou força os oponentes a bloquear. Separe as notas de PvP das notas de grinding."
+        }
+      ],
+      "managementTips": [
+        "Verifique o canal fruit-stock do Discord antes de caçar no mapa.",
+        "Use servidores VIP para rotas de frutas mais limpas e menos interrupções.",
+        "Compare movimentos, requisitos de maestria e despertares no Trello antes de trocar.",
+        "Separe as frutas de grinding das frutas de PvP ao planejar sua build."
+      ]
+    },
+    "hazeSeasTierList": {
+      "title": "Tier List do Haze Seas",
+      "intro": "Esta tier list do Haze Seas classifica as escolhas de build mais pesquisadas entre Devil Fruits, armas, raças e estilos de luta para que você possa comparar cada sistema lado a lado. Use-a como uma referência prática ao decidir o que manter, dar reroll, farmar ou melhorar a seguir em grinding, chefes, PvP e eventos marítimos.",
+      "groups": [
+        {
+          "name": "Devil Fruits",
+          "icon": "Cherry",
+          "achievements": [
+            {
+              "title": "Dough",
+              "description": "Tier S · Mítica — Fruta de alto valor com forte potencial de combo para PvP, dano em chefes e builds de late-game."
+            },
+            {
+              "title": "Dragon",
+              "description": "Tier S · Zoan Mítica — Pressão de transformação poderosa para chefes, builds de transformação e PvP de alto nível."
+            },
+            {
+              "title": "Phoenix",
+              "description": "Tier S · Lendária — Forte recuperação, mobilidade e progressão mais segura para sobrevivência e PvE flexível."
+            },
+            {
+              "title": "Leopard",
+              "description": "Tier A · Zoan Lendária — Pressão agressiva a curta distância e combate PvP móvel."
+            },
+            {
+              "title": "Venom",
+              "description": "Tier A · Lendária — Dano ao longo do tempo, pressão em chefes e controle de área com zonas de veneno."
+            },
+            {
+              "title": "Magma",
+              "description": "Tier A · Logia Rara — Dano confiável e ataques em área para grinding e farm de chefes."
+            },
+            {
+              "title": "Light",
+              "description": "Tier A · Logia Rara — Mobilidade, progressão rápida e farm seguro à distância."
+            },
+            {
+              "title": "Gum",
+              "description": "Tier B · Lendária — Estilo de jogo flexível com combos e builds focadas em habilidades."
+            },
+            {
+              "title": "Magnet",
+              "description": "Tier B · Lendária — Espaçamento, pressão à distância e dano baseado em habilidades."
+            },
+            {
+              "title": "Ice",
+              "description": "Tier B · Logia Rara — Controle de grupo com estilo de congelamento para grinding seguro e setups de PvP."
+            },
+            {
+              "title": "Flame",
+              "description": "Tier B · Logia Rara — Dano acessível no início e meio de jogo para farmar."
+            },
+            {
+              "title": "Gravity",
+              "description": "Tier B · Rara — Maior impacto de habilidade para pressão de área e dano de habilidade."
+            },
+            {
+              "title": "Smoke",
+              "description": "Tier C · Logia Incomum — Opção elemental inicial antes de desbloquear frutas mais fortes."
+            },
+            {
+              "title": "Sand",
+              "description": "Tier C · Logia Incomum — Fruta útil para farm inicial, fácil de substituir mais tarde."
+            },
+            {
+              "title": "Bomb",
+              "description": "Tier C · Comum — Dano básico inicial antes que rotas raras ou lendárias se abram."
+            },
+            {
+              "title": "Chop",
+              "description": "Tier C · Comum — Fruta de utilidade inicial com valor limitado a longo prazo."
+            }
+          ]
+        },
+        {
+          "name": "Armas",
+          "icon": "Espadas",
+          "achievements": [
+            {
+              "title": "Yoru / Dark Blade",
+              "description": "Tier S · Espada Mítica — Builds de espada premium para PvP via loja, presentes ou trocas."
+            },
+            {
+              "title": "Enma",
+              "description": "Tier S · Espada Lendária — Dano de espada para o final do jogo da rota de drop do Chefe Enma."
+            },
+            {
+              "title": "3 Sword Style",
+              "description": "Tier S · Espada Lendária — Pressão de múltiplas espadas focada em combos da rota do Chefe 3SS."
+            },
+            {
+              "title": "Sea Beast Hammer V2",
+              "description": "Tier S · Arma Lendária — Farm de eventos marítimos da rota de drop do White Sea Beast."
+            },
+            {
+              "title": "Golden Staff",
+              "description": "Tier A · Espada Lendária — Builds ligadas à eletricidade da rota do Thunder God nas Ilhas do Céu."
+            },
+            {
+              "title": "Raiu",
+              "description": "Tier A · Espada Lendária — Pressão rápida de espada da rota do Shiryu Scroll na Skull Island."
+            },
+            {
+              "title": "Bisento V2",
+              "description": "Tier A · Espada Rara — Bisento aprimorada da rota da super chefe Tremor Girl."
+            },
+            {
+              "title": "Shusui",
+              "description": "Tier A · Espada Lendária — Progressão de Thriller Boat a partir da rota de drop do Ryummy."
+            },
+            {
+              "title": "Martelo do Sea Beast",
+              "description": "Tier B · Arma Lendária — Dano pesado e farm de eventos marítimos a partir da rota do Sea Beast."
+            },
+            {
+              "title": "Operation Blade",
+              "description": "Tier B · Espada Lendária — Builds de espada baseadas em habilidades a partir da rota do Magma Minion."
+            },
+            {
+              "title": "Estilo de 2 Espadas V2",
+              "description": "Tier B · Raro — Combos de espada de mid-to-late game a partir da rota do Dual Swordsman."
+            },
+            {
+              "title": "Maça V2",
+              "description": "Tier B · Arma Lendária — Pressão aprimorada de arma pesada a partir da rota do Boss Mace V2."
+            },
+            {
+              "title": "Katana",
+              "description": "Tier C · Espada Comum — Uso inicial de espada da loja de espadas antes dos drops de chefes."
+            },
+            {
+              "title": "Shark Blade",
+              "description": "Tier C · Espada Rara — Espada de drop de chefe inicial do Shark Boss em Shark Park."
+            },
+            {
+              "title": "Soul Cane",
+              "description": "Tier C · Espada Rara — Utilidade de transição para o mid-game a partir da rota do Mr Skeleton."
+            },
+            {
+              "title": "Estilo de 2 Espadas",
+              "description": "Tier C · Raro — Combos iniciais de espada do Mr White antes de farmar a V2."
+            }
+          ]
+        },
+        {
+          "name": "Raças",
+          "icon": "Usuários",
+          "achievements": [
+            {
+              "title": "Clã D.",
+              "description": "Tier S · Mítico — PvP de endgame, mobilidade e sobrevivência com regeneração, velocidade, SkyWalk, Haki da Observação, estamina, vida e Espírito do Conquistador."
+            },
+            {
+              "title": "Dragonoide",
+              "description": "Tier S · Lendário — Builds de Haki da Observação e combate durável com regeneração, vida e poder de pulo."
+            },
+            {
+              "title": "Lunariano",
+              "description": "Tier S · Lendário — Mobilidade e sustain com SkyWalk, regeneração, poder de pulo e estamina."
+            },
+            {
+              "title": "Demônio",
+              "description": "Tier A · Raro — Agressão rápida e movimentação de PvP com um grande bônus de velocidade de movimento."
+            },
+            {
+              "title": "Dragão Celestial",
+              "description": "Tier A · Raro — Dinheiro de missões e progressão equilibrada com suporte de vida e estamina."
+            },
+            {
+              "title": "Mink",
+              "description": "Tier B · Incomum — Velocidade, pulo e movimentação inicial com velocidade de movimento, poder de pulo e estamina."
+            },
+            {
+              "title": "Homem-Peixe",
+              "description": "Tier B · Incomum — Natação e progressão durável com bônus de vida e velocidade de nado."
+            },
+            {
+              "title": "Ciborgue",
+              "description": "Tier B · Incomum — Progressão inicial mais resistente com vida e regeneração de vida."
+            },
+            {
+              "title": "Skypieano",
+              "description": "Tier B · Incomum — Pulo e estamina com um kit simples focado em movimentação."
+            },
+            {
+              "title": "Humano",
+              "description": "Tier C · Comum — Raça inicial padrão sem grandes bônus que definam builds."
+            },
+            {
+              "title": "Tribo de 3 Olhos",
+              "description": "C Tier · Comum — Pequeno bônus de stamina para suporte inicial."
+            },
+            {
+              "title": "Elfo",
+              "description": "C Tier · Comum — Pequeno bônus de regeneração de vida para suporte inicial."
+            }
+          ]
+        },
+        {
+          "name": "Estilos de Luta",
+          "icon": "Martelo",
+          "achievements": [
+            {
+              "title": "Dragônico / Dragon Claw",
+              "description": "S Tier · Estilo Avançado — Pressão corpo a corpo no fim de jogo para combate agressivo de curto alcance."
+            },
+            {
+              "title": "Ciborgue",
+              "description": "S Tier · Estilo Avançado — Dano de burst e combate corpo a corpo baseado em habilidades para builds avançadas."
+            },
+            {
+              "title": "Karatê Homem-Peixe",
+              "description": "A Tier · Estilo — Pressão corpo a corpo equilibrada em PvE e PvP com um kit prático e versátil."
+            },
+            {
+              "title": "Electro",
+              "description": "A Tier · Estilo — Combate corpo a corpo focado em velocidade e pressão de atordoamento para atacantes rápidos."
+            },
+            {
+              "title": "Perna Negra",
+              "description": "B Tier · Estilo — Primeiro upgrade prático de combate corpo a corpo após o Combate básico."
+            },
+            {
+              "title": "Combate",
+              "description": "C Tier · Estilo Inicial — Kit corpo a corpo padrão antes de desbloquear estilos mais fortes."
+            }
+          ]
+        }
+      ]
+    },
+    "hazeSeasRaces": {
+      "title": "Raças de Haze Seas",
+      "intro": "As raças em Haze Seas afetam o movimento, vida, stamina, regeneração, acesso a Haki e a direção da build a longo prazo. Use os giros de raça iniciais com cuidado ao decidir se deve manter uma raça rara, lendária ou mítica para farm, PvP ou progressão marítima.",
+      "regions": [
+        {
+          "name": "Clã D.",
+          "type": "Mítico",
+          "description": "0,1% de chance · Cicatriz em forma de X. Concede regeneração de vida, velocidade de caminhada, SkyWalk, Haki da Observação, stamina, vida e Espírito do Conquistador. Melhor para PvP de endgame e mobilidade. Mantenha."
+        },
+        {
+          "name": "Dragonoide",
+          "type": "Lendário",
+          "description": "1% de chance · Asas e cauda de dragão. Regeneração de vida, Haki da Observação, vida e poder de pulo. Melhor para builds duráveis e progressão no fim de jogo. Mantenha."
+        },
+        {
+          "name": "Lunariano",
+          "type": "Lendário",
+          "description": "1% de chance · Asas negras e orbe de fogo. SkyWalk, regeneração de vida, poder de pulo e stamina. Melhor para mobilidade, sustentação e movimento vertical. Mantenha."
+        },
+        {
+          "name": "Demônio",
+          "type": "Raro",
+          "description": "8,9% de chance · Chifres de demônio e cauda negra. Velocidade de caminhada, vida e stamina. Melhor para movimentação agressiva em PvP e missões rápidas. Mantenha, a menos que esteja buscando uma lendária ou mítica."
+        },
+        {
+          "name": "Dragão Celestial",
+          "type": "Raro",
+          "description": "8,9% de chance · Capacete de vidro. Dinheiro de missões, vida e stamina. Melhor para farm de dinheiro e progressão equilibrada. Mantenha para farmar."
+        },
+        {
+          "name": "Mink",
+          "type": "Incomum",
+          "description": "35% de chance · Orelhas de coelho. Velocidade de caminhada, poder de pulo e stamina. Melhor para movimentação e farm focado em mobilidade. Mantenha no início, gire novamente mais tarde."
+        },
+        {
+          "name": "Homem-Peixe",
+          "type": "Incomum",
+          "description": "35% de chance · Barbatana de tubarão. Vida e velocidade de nado. Melhor para movimentação marítima e viagem de ilha em ilha. Mantenha no início se a velocidade de viagem for importante."
+        },
+        {
+          "name": "Ciborgue",
+          "type": "Incomum",
+          "description": "35% de chance · Tanque científico. Vida e regeneração de vida. Melhor para um combate inicial mais seguro e durabilidade. Mantenha no início, role novamente mais tarde."
+        },
+        {
+          "name": "Skypeiano",
+          "type": "Incomum",
+          "description": "35% de chance · Asas de anjo. Stamina e poder de pulo. Melhor para pulo, stamina e mobilidade inicial. Mantenha no início, role novamente mais tarde."
+        },
+        {
+          "name": "Humano",
+          "type": "Comum",
+          "description": "55% de chance · Sem característica visível. Raça inicial padrão sem bônus definidores de build. Role novamente quando houver giros disponíveis."
+        },
+        {
+          "name": "Tribo de 3 Olhos",
+          "type": "Comum",
+          "description": "55% de chance · Terceiro olho. Pequeno bônus de stamina para suporte inicial. Role novamente quando houver giros disponíveis."
+        },
+        {
+          "name": "Elfo",
+          "type": "Comum",
+          "description": "55% de chance · Orelhas de elfo. Pequeno bônus de regeneração de vida para suporte inicial. Role novamente quando houver giros disponíveis."
+        }
+      ]
+    },
+    "hazeSeasWeapons": {
+      "title": "Armas e Estilos de Luta de Haze Seas",
+      "intro": "Armas e estilos de luta definem como uma build de Haze Seas joga quando as habilidades de fruta estão em tempo de recarga ou quando você quer uma rota focada em espadas. Use esta comparação para decidir o que comprar no início, farmar de chefes e focar no PvP de fim de jogo ou eventos marítimos.",
+      "settings": [
+        {
+          "name": "Yoru / Dark Blade",
+          "type": "Espada Mítica",
+          "description": "Rota de loja, presente ou troca (1.200 Robux). Builds de espada PvP premium para investimento sério em espadas."
+        },
+        {
+          "name": "Enma",
+          "type": "Espada Lendária",
+          "description": "Derrote o Chefe Enma (10% de chance de drop). Grande alvo de dano de espada para o fim de jogo."
+        },
+        {
+          "name": "Estilo de 3 Espadas",
+          "type": "Espada Lendária",
+          "description": "Derrote o Chefe 3SS (5% de chance de drop). Pressão multi-espada focada em combos."
+        },
+        {
+          "name": "Martelo da Besta Marinha V2",
+          "type": "Arma Lendária",
+          "description": "Derrote a Besta Marinha Branca (3,5% de chance de drop). Builds de armas para eventos marítimos."
+        },
+        {
+          "name": "Bastão Dourado",
+          "type": "Espada Lendária",
+          "description": "Derrote o Deus do Trovão nas Ilhas do Céu (1% de chance de drop). Builds de espada ligadas a eletricidade."
+        },
+        {
+          "name": "Raiu",
+          "type": "Espada Lendária",
+          "description": "Rota do Pergaminho do Shiryu na Ilha da Caveira. Pressão rápida com espada para progressão tardia."
+        },
+        {
+          "name": "Shusui",
+          "type": "Espada Lendária",
+          "description": "Derrote Ryummy em Thriller Boat (drop de chefe). Progressão de espada para o fim de jogo."
+        },
+        {
+          "name": "Tridente Homem-Peixe",
+          "type": "Espada Lendária",
+          "description": "Rota de armas da Fishman Island. Builds de espada com tema de água enquanto progride na ilha."
+        },
+        {
+          "name": "Bisento",
+          "type": "Espada Lendária",
+          "description": "Compre com o NPC Bella (500.000 de Dinheiro). Espada comprada confiável antes de drops mais difíceis."
+        },
+        {
+          "name": "Bisento V2",
+          "type": "Espada Rara",
+          "description": "Derrote Tremor Girl (20% de drop). Bisento aprimorada para farm de super bosses."
+        },
+        {
+          "name": "Operation Blade",
+          "type": "Espada Lendária",
+          "description": "Rota do Magma Minion (250.000 de Dinheiro). Builds de espada com tema de habilidades."
+        },
+        {
+          "name": "Sea Beast Hammer",
+          "type": "Arma Lendária",
+          "description": "Derrote Sea Beast em Rocky Pillars (50% de drop). Dano pesado e farm de eventos marítimos."
+        },
+        {
+          "name": "Mace",
+          "type": "Arma Rara",
+          "description": "Derrote Mace Boss em Winter Island (100% de drop). Rota de corpo a corpo pesado garantida."
+        },
+        {
+          "name": "Mace V2",
+          "type": "Arma Lendária",
+          "description": "Derrote Mace V2 Boss (1% de drop). Pressão de arma pesada aprimorada."
+        },
+        {
+          "name": "Estilo de 2 Espadas",
+          "type": "Estilo de Espada Raro",
+          "description": "Compre com Mr White (100.000 de Dinheiro). Combos de espada iniciais."
+        },
+        {
+          "name": "Estilo de 2 Espadas V2",
+          "type": "Estilo de Espada Raro",
+          "description": "Derrote Dual Swordsman em Logue City (10% de drop). Combos de espada de meio de jogo."
+        },
+        {
+          "name": "Shark Blade",
+          "type": "Espada Rara",
+          "description": "Derrote Shark Boss em Shark Park (5% de drop). Espada de drop de boss inicial."
+        },
+        {
+          "name": "Katana",
+          "type": "Espada Comum",
+          "description": "Compra na loja de espadas. Espada inicial antes das rotas raras e lendárias abrirem."
+        },
+        {
+          "name": "Combate",
+          "type": "Estilo Inicial",
+          "description": "Estilo de luta padrão. Primeiros níveis e corpo a corpo básico."
+        },
+        {
+          "name": "Black Leg",
+          "type": "Estilo de Luta",
+          "description": "Treinador no Sea Restaurant (Compra por dinheiro). Primeiro upgrade prático de corpo a corpo."
+        },
+        {
+          "name": "Electro",
+          "type": "Estilo de Luta",
+          "description": "Treinador na Udon Prison (Compra por dinheiro). Corpo a corpo rápido e pressão de stun."
+        },
+        {
+          "name": "Karatê Tritão",
+          "type": "Estilo de Luta",
+          "description": "Treinador na rota de progressão de Tritão. Combate corpo a corpo equilibrado para PvE e PvP."
+        },
+        {
+          "name": "Ciborgue",
+          "type": "Estilo de Luta",
+          "description": "Rota de treinador avançada. Builds corpo a corpo baseadas em habilidades focadas em dano explosivo."
+        },
+        {
+          "name": "Dragônico / Garra do Dragão",
+          "type": "Estilo de Luta",
+          "description": "Rota de treinador avançada. Pressão corpo a corpo agressiva no late-game."
+        }
+      ]
+    },
+    "hazeSeasBosses": {
+      "title": "Ilhas de Chefes e Eventos Marítimos de Haze Seas",
+      "intro": "A progressão de Haze Seas é baseada em rotas de ilhas, farm de chefes, drops de itens, superchefes e eventos marítimos. Use este mapa e guia de drops para decidir o que farmar a seguir enquanto avança do Primeiro Mar para as rotas de late-game.",
+      "entries": [
+        {
+          "type": "Primeiro Mar",
+          "title": "Shark Park — Chefe Tubarão (Nv 120)",
+          "description": "Dropa a Shark Blade. Farme para obter uma espada rara no início do jogo antes de avançar na progressão do Primeiro Mar."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Desert Ruins — Chefe Bomba (Nv 200)",
+          "description": "Rota de progressão de chefes usada principalmente para subir de nível em direção ao conteúdo de ilhas de nível mais alto."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Sea Restaurant — Chefe Krieg (Nv 300)",
+          "description": "Dropa Gold Pauldrons. Farm de acessórios no início do jogo e progressão de Black Leg."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Logue Town — Tashii (Nv 400)",
+          "description": "Dropa Glasses. Continue farmando antes de mudar para as rotas de chefes do mid-game."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Tall Woods — Rei Gorila (Nv 550)",
+          "description": "Dropa Monkey Crown. Ponto de verificação para jogadores que estão montando coleções de acessórios."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Marine Base Town — Capitão da Marinha (Nv 650)",
+          "description": "Dropa Iron Jaw e Lava Ore. Farme para progressão de chefes e materiais de melhoria."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Three Islands — Minotauro (Nv 750)",
+          "description": "Dropa Oversized Helmet. Parada de mid-game antes de Marine HQ e Sky Islands."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Marine HQ — Almirante de Gelo (Nv 900)",
+          "description": "Dropa Sleeping Mask e TremorBeard Key. Prepara para rotas de chefes especiais."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Sky Islands — Deus do Trovão (Nv 1100)",
+          "description": "Dropa Golden Staff e Thunder Drums. Farme pelo Golden Staff e rotas temáticas de eletricidade."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Revolutionary Base — Chefe Revolucionário (Nv 1250)",
+          "description": "Rota de progressão de chefes antes de avançar para a prisão e zonas avançadas do Primeiro Mar."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Impel Jail — Warden (Lv 1400)",
+          "description": "Dropa Warden Hat e Match. Parada essencial antes de Hot Island e Fishman Island."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Hot Island — Vergo (Lv 1500)",
+          "description": "Dropa Black Shades. Farm de acessórios e progressão de fim do Primeiro Mar."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Cold Island Lab — Harpy (Lv 1550)",
+          "description": "Dropa Minério de Gelo. Relacionado à progressão de criação do Sea Beast Core e do Ferreiro."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Fishman Island — Neptune (Lv 1700)",
+          "description": "Dropa Neptune Crown e Fork. Rota de farm para equipamentos relacionados a Homens-Peixe."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Skull Island — Shiryu (Lv 1850)",
+          "description": "Dropa Pergaminho para a progressão da Raiu. Parada essencial para rotas de armas de fim do Primeiro Mar."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Bubble Island — Chefe G4 (Lv 2000)",
+          "description": "Dropa Livro do Gear 4. Importante para a progressão relacionada ao Gear 4."
+        },
+        {
+          "type": "Primeiro Mar",
+          "title": "Thriller Boat — Ryummy (Lv 2150)",
+          "description": "Dropa Shusui e Blue Scarf. Alvo principal de farm de espadas do fim do Primeiro Mar."
+        },
+        {
+          "type": "Super Boss",
+          "title": "Logue City — Dual Swordsman (Lv 500)",
+          "description": "Dropa Estilo de 2 Espadas V2, Bandana Verde e Livro. Farme após planejar a progressão do Estilo de 2 Espadas."
+        },
+        {
+          "type": "Super Boss",
+          "title": "Super Boss — Tremor Girl",
+          "description": "Dropa Bisento V2. Rota de melhoria para o combate com espada estilo Bisento."
+        },
+        {
+          "type": "Super Boss",
+          "title": "Winter Island — Chefe Mace (Lv 700)",
+          "description": "Dropa Mace. Rota de arma pesada garantida antes de melhorias mais raras."
+        },
+        {
+          "type": "Super Boss",
+          "title": "Chefe Avançado — Chefe Enma",
+          "description": "Dropa Enma. Farme quando estiver pronto para buscar uma espada lendária mais forte."
+        },
+        {
+          "type": "Super Boss",
+          "title": "Chefe Avançado — Chefe 3SS",
+          "description": "Dropa Estilo de 3 Espadas. Alvo principal para builds de combo de múltiplas espadas."
+        },
+        {
+          "type": "Super Boss",
+          "title": "Chefe Avançado — Chefe Mace V2",
+          "description": "Dropa Mace V2. Caminho de arma pesada melhorada para jogadores na rota da Mace."
+        },
+        {
+          "type": "Evento de Mar",
+          "title": "Rocky Pillars — Besta Marinha (Nv 700)",
+          "description": "Dropa Sea Beast Hammer, Sea Beast Core, Dinheiro, Gemas e Recompensa. Farm de armas pesadas e materiais."
+        },
+        {
+          "type": "Evento de Mar",
+          "title": "Rota Marítima — Besta Marinha Branca",
+          "description": "Dropa Sea Beast Hammer V2. Farm para a evolução do Sea Beast Hammer."
+        },
+        {
+          "type": "Segundo Mar",
+          "title": "Prisão de Udon — Rota do Mamute",
+          "description": "Progressão no Segundo Mar com uma rota de treinador Electro para combate corpo a corpo avançado."
+        },
+        {
+          "type": "Segundo Mar",
+          "title": "Ilha de Inverno — Rota do Chefe da Neve",
+          "description": "Rota de ilha de progressão tardia através de conteúdo de nível superior do Segundo Mar."
+        },
+        {
+          "type": "Segundo Mar",
+          "title": "Snake Amazon — Rota de Ilha Tardia",
+          "description": "Parada de progressão tardia antes de rotas de frutas e chefes mais fortes."
+        },
+        {
+          "type": "Segundo Mar",
+          "title": "Ilha Venom — Chefe Venom",
+          "description": "Progressão da rota Venom. Farm para habilidades de final de jogo e conteúdo de chefes."
+        },
+        {
+          "type": "Segundo Mar",
+          "title": "Chefe Tardio — Usuário de Dough",
+          "description": "Conectado à progressão da mítica e cobiçada fruta Dough."
+        },
+        {
+          "type": "Segundo Mar",
+          "title": "Chefe Tardio — Chefe Dragon",
+          "description": "Conectado à progressão da mítica Zoan Dragon de alta demanda."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas",
+    "titleHighlight": "Frequentes",
+    "subtitle": "Tudo o que você precisa saber sobre Haze Seas",
+    "questions": [
+      {
+        "question": "O que é Haze Seas?",
+        "answer": "Haze Seas é o RPG de ação pirata no Roblox da Haze Studios, um rework de HAZE PIECE, focado em ilhas, Devil Fruits, espadas, estilos de luta, raças, chefes, recompensa e eventos de mar."
+      },
+      {
+        "question": "Como resgato códigos do Haze Seas?",
+        "answer": "Inicie o Haze Seas, abra o botão Menu, selecione o ícone de Baú de Tesouro ou Presente, cole o código exatamente como escrito e pressione Resgatar para receber a recompensa na mesma conta."
+      },
+      {
+        "question": "Com que frequência as Devil Fruits surgem no Haze Seas?",
+        "answer": "No Haze Seas, uma Devil Fruit surge a cada 60 minutos e desaparece após 20 minutos. Servidores VIP podem manter os surgimentos com um limite de 5 frutas, e o estoque ao vivo é monitorado no canal fruit-stock do Discord."
+      },
+      {
+        "question": "Onde posso encontrar os links oficiais do Haze Seas?",
+        "answer": "Os canais oficiais do Haze Seas são o quadro do Trello para dados estruturados, o Discord da Haze Studios para atualizações ao vivo, as páginas do jogo e do grupo no Roblox, o YouTube da Haze Studios para trailers e a conta do Haze Seas no X para postagens rápidas."
+      },
+      {
+        "question": "Como as raças e os giros de raça funcionam no Haze Seas?",
+        "answer": "As raças de Haze Seas afetam movimento, vida, estamina, regeneração e acesso ao Haki. Use giros de raça para trocar e mantenha resultados raros, lendários ou míticos que combinem com seus objetivos de farm, PvP ou progressão no mar."
+      },
+      {
+        "question": "O Haze Seas é gratuito para jogar no Roblox?",
+        "answer": "Sim. Haze Seas é uma experiência do Roblox jogável em PC, celular e console através da página oficial do jogo HAZE PIECE no Roblox."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para Zarpar em Haze Seas?",
+    "description": "Junte-se à comunidade de Haze Seas no Discord para códigos, frutas, raças, guias, atualizações e discussões!",
+    "joinCommunity": "Junte-se ao Discord",
+    "joinGame": "Jogue no Roblox"
+  },
+  "footer": {
+    "title": "Haze Seas Wiki",
+    "description": "Seu centro de recursos completo para códigos de Haze Seas Roblox, frutas, raças, espadas, estilos de luta, chefes e guias de progressão pirata.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Jurídico",
+    "discord": "Discord",
+    "twitter": "X / Twitter",
+    "youtube": "YouTube",
+    "robloxGame": "Jogo no Roblox",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Haze Seas Wiki. Não afiliado aos desenvolvedores de Haze Seas ou Roblox.",
+    "disclaimer": "Site de recursos não oficial criado por fãs."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos de Haze Seas",
+      "description": "Últimos códigos de Haze Seas funcionando para giros de raça gratuitos, gemas, resets de status e rerolls de traits. Resgate-os no jogo para uma progressão pirata mais rápida.",
+      "metaTitle": "Códigos de Haze Seas - Gemas Grátis e Giros de Raça",
+      "metaDescription": "Obtenha os últimos códigos ativos de Haze Seas para gemas grátis, giros de raça, resets de status e rerolls de traits com instruções de resgate passo a passo.",
+      "categoryLabel": "RESGATAR CÓDIGOS",
+      "whatIs": "O Que São os Códigos de Haze Seas?",
+      "whatIsDescription": "Os códigos de Haze Seas são sequências de resgate gratuitas lançadas pela Haze Studios que concedem recompensas bônus como gemas, giros de raça, resets de status e rerolls de traits. Novos códigos são lançados junto com grandes atualizações, marcos e eventos sazonais.",
+      "why": "Por Que Resgatar Códigos de Haze Seas?",
+      "whySteps": {
+        "step1Title": "Impulsos de Progressão Gratuitos",
+        "step1Description": "Códigos concedem gemas, resets de status e giros que aceleram o nivelamento, o sorteio de frutas e as mudanças de raça sem precisar de grinding.",
+        "step2Title": "Acompanhe Cada Lançamento de Atualização",
+        "step2Description": "Novos códigos acompanham cada patch de conteúdo, então verificar regularmente mantém você à frente das novas frutas, armas e chefes.",
+        "step3Title": "Rerolls Sem Risco",
+        "step3Description": "Rerolls de traits e raças vindos de códigos permitem que você teste builds sem gastar moeda premium."
+      },
+      "featured": "Códigos em Destaque",
+      "all": "Todos os Códigos de Haze Seas"
+    },
+    "guide": {
+      "title": "Guia de Haze Seas",
+      "description": "Guias completos de Haze Seas para iniciantes, nivelamento, chefes, drops, haki e o Second Sea. Domine a progressão, o combate e a exploração.",
+      "metaTitle": "Guia de Haze Seas - Passo a Passo do Iniciante ao Pro",
+      "metaDescription": "Domine Haze Seas com guias completos sobre nivelamento, haki, chefes, drops, Second Sea e progressão de pirata iniciante a profissional.",
+      "categoryLabel": "GUIAS",
+      "whatIs": "O Que É o Guia de Haze Seas?",
+      "whatIsDescription": "O hub de guias de Haze Seas cobre todos os sistemas que você precisa para progredir, desde dicas para iniciantes no primeiro spawn e rotas de subida de nível mais rápidas até estratégias de chefes, tabelas de drop, desbloqueios de haki e a transição para o Segundo Mar.",
+      "why": "Por que ler o guia de Haze Seas?",
+      "whySteps": {
+        "step1Title": "Suba de nível mais rápido",
+        "step1Description": "Rotas de grind otimizadas e builds de atributos ajudam você a alcançar o nível máximo sem esforço desperdiçado.",
+        "step2Title": "Derrote todos os chefes",
+        "step2Description": "Detalhes dos chefes com requisitos de nível, padrões de ataque e tabelas de drop eliminam as adivinhações dos combates.",
+        "step3Title": "Desbloqueie o Segundo Mar",
+        "step3Description": "Pré-requisitos passo a passo e marcos de progressão guiam você até o conteúdo do Segundo Mar."
+      },
+      "featured": "Guias em destaque",
+      "all": "Todos os guias de Haze Seas"
+    },
+    "fruits": {
+      "title": "Frutas de Haze Seas",
+      "description": "Todas as Frutas do Diabo de Haze Seas explicadas: habilidades, raridades, despertar e detalhes de rework. Encontre a melhor fruta para PvP, grind e chefes.",
+      "metaTitle": "Frutas de Haze Seas - Habilidades, Raridades e Despertares",
+      "metaDescription": "Navegue por todas as Frutas do Diabo de Haze Seas com habilidades, raridades, caminhos de despertar e atualizações de rework para escolher a melhor fruta para PvP e grind.",
+      "categoryLabel": "FRUTAS DO DIABO",
+      "whatIs": "O que são as Frutas de Haze Seas?",
+      "whatIsDescription": "As Frutas do Diabo são o sistema de poder característico em Haze Seas, concedendo habilidades elementais e de combate únicas. Cada fruta tem sua própria raridade, moveset, caminho de despertar e papel em PvP, grind ou lutas contra chefes.",
+      "why": "Por que estudar as Frutas de Haze Seas?",
+      "whySteps": {
+        "step1Title": "Escolha a fruta certa",
+        "step1Description": "Compare habilidades e raridades para escolher uma fruta que se adapte ao seu estilo de jogo e objetivos de progressão.",
+        "step2Title": "Planeje os despertares",
+        "step2Description": "Caminhos de despertar e reworks reformulam o moveset de uma fruta, então conhecer a rota economiza tempo de reroll.",
+        "step3Title": "Vença mais lutas",
+        "step3Description": "Entender as vantagens de cada fruta e os combos melhora o desempenho no PvP e em confrontos contra chefes."
+      },
+      "featured": "Frutas em destaque",
+      "all": "Todas as Frutas de Haze Seas"
+    },
+    "weapons": {
+      "title": "Armas de Haze Seas",
+      "description": "Lista completa de espadas e armas de Haze Seas com localizações, atributos e detalhes de rework. Encontre a melhor lâmina para sua build e estilo de jogo.",
+      "metaTitle": "Armas e Espadas de Haze Seas - Localizações e Atributos",
+      "metaDescription": "Descubra todas as espadas e armas de Haze Seas com localizações, atributos, raridades e atualizações de rework para montar o loadout mais forte.",
+      "categoryLabel": "ARMAS",
+      "whatIs": "O que são as Armas de Haze Seas?",
+      "whatIsDescription": "Armas e espadas são equipamentos de combate essenciais em Haze Seas, cada uma com localizações, atributos, padrões de ataque e raridades únicas. Armas reformuladas trazem movesets atualizados e ajustes de balanceamento que mudam o meta.",
+      "why": "Por que acompanhar as Armas de Haze Seas?",
+      "whySteps": {
+        "step1Title": "Encontre todas as lâminas",
+        "step1Description": "Localizações exatas e métodos de obtenção garantem que você nunca perca uma espada forte em sua jornada.",
+        "step2Title": "Monte o melhor loadout",
+        "step2Description": "Atributos e raridades ajudam você a comparar opções e combinar armas com a fruta e o estilo de luta certos.",
+        "step3Title": "Mantenha-se atualizado com os reworks",
+        "step3Description": "Reworks de armas rebalanceiam o dano e os movesets, então acompanhar as atualizações mantém sua build competitiva."
+      },
+      "featured": "Armas em Destaque",
+      "all": "Todas as Armas do Haze Seas"
+    },
+    "styles": {
+      "title": "Estilos de Luta do Haze Seas",
+      "description": "Estilos de luta do Haze Seas como Black Leg e Electro explicados: movimentos, requisitos de desbloqueio e melhores casos de uso para PvP e grinding.",
+      "metaTitle": "Estilos de Luta do Haze Seas - Black Leg, Electro & Mais",
+      "metaDescription": "Aprenda todos os estilos de luta do Haze Seas, incluindo Black Leg e Electro, com movimentos, requisitos de desbloqueio e melhores usos para PvP e grinding.",
+      "categoryLabel": "ESTILOS DE LUTA",
+      "whatIs": "O Que São os Estilos de Luta do Haze Seas?",
+      "whatIsDescription": "Os estilos de luta são disciplinas de combate corpo a corpo no Haze Seas que definem seu conjunto de movimentos de curto alcance. Estilos como Black Leg e Electro oferecem, cada um, combos distintos, mobilidade e caminhos de desbloqueio para PvP e grinding.",
+      "why": "Por Que Aprender os Estilos de Luta do Haze Seas?",
+      "whySteps": {
+        "step1Title": "Expanda Seu Moveset",
+        "step1Description": "Cada estilo desbloqueia combos e opções de mobilidade exclusivas que complementam builds de frutas e armas.",
+        "step2Title": "Conheça o Caminho de Desbloqueio",
+        "step2Description": "Requisitos claros dizem exatamente quando e onde obter cada estilo de luta.",
+        "step3Title": "Combine o Estilo com o Modo",
+        "step3Description": "Diferentes estilos se destacam em PvP versus grinding, então escolher o certo maximiza a eficiência."
+      },
+      "featured": "Estilos em Destaque",
+      "all": "Todos os Estilos de Luta do Haze Seas"
+    },
+    "release": {
+      "title": "Lançamento do Haze Seas",
+      "description": "Datas de lançamento, atualizações, detalhes de lançamento do Haze Seas e a linha do tempo de reformulação do Haze Piece. Acompanhe cada versão e o que mudou.",
+      "metaTitle": "Data de Lançamento, Atualizações e Informações de Lançamento do Haze Seas",
+      "metaDescription": "Encontre datas de lançamento, notas de atualização, detalhes de lançamento do Haze Seas e a linha do tempo completa da reformulação do Haze Piece em um só lugar.",
+      "categoryLabel": "LANÇAMENTO E ATUALIZAÇÕES",
+      "whatIs": "O Que São as Informações de Lançamento do Haze Seas?",
+      "whatIsDescription": "A seção de lançamento acompanha as datas de lançamento do Haze Seas, principais atualizações, marcos de relançamento e a reformulação do Haze Piece que redefiniu o jogo. Ela cobre o que foi lançado e quando, desde datas de lançamento até patches de conteúdo.",
+      "why": "Por Que Acompanhar as Informações de Lançamento do Haze Seas?",
+      "whySteps": {
+        "step1Title": "Nunca Perca uma Atualização",
+        "step1Description": "As notas de atualização informam quais frutas, armas, chefes e mudanças de equilíbrio chegaram em cada patch.",
+        "step2Title": "Entenda a Reformulação",
+        "step2Description": "A linha do tempo da reformulação do Haze Piece explica como o jogo evoluiu para a experiência atual do Haze Seas.",
+        "step3Title": "Planeje-se em Torno dos Lançamentos",
+        "step3Description": "Saber as datas de lançamento e relançamento ajuda você a planejar seu grind em torno de novos lançamentos de conteúdo."
+      },
+      "featured": "Notas de Lançamento em Destaque",
+      "all": "Todas as Informações de Lançamento do Haze Seas"
+    },
+    "links": {
+      "title": "Links do Haze Seas",
+      "description": "Links oficiais do Haze Seas: página do jogo no Roblox, Trello, Discord, trailer e guias de links do jogo. Conecte-se com a comunidade e os canais dos desenvolvedores.",
+      "metaTitle": "Links do Haze Seas - Trello, Discord, Roblox & Trailer",
+      "metaDescription": "Encontre links oficiais do Haze Seas, incluindo a página do jogo no Roblox, painel do Trello, servidor do Discord, trailer oficial e guias de vinculação de conta.",
+      "categoryLabel": "LINKS OFICIAIS",
+      "whatIs": "O Que São os Links do Haze Seas?",
+      "whatIsDescription": "O hub de links reúne todos os canais oficiais do Haze Seas: a página do jogo no Roblox, o roadmap do Trello, a comunidade do Discord, o trailer oficial e os guias de vinculação de conta que conectam sua conta do Roblox entre plataformas.",
+      "why": "Por que usar os links do Haze Seas?",
+      "whySteps": {
+        "step1Title": "Junte-se à comunidade",
+        "step1Description": "O Discord e o Trello mantêm você conectado a anúncios, notas de atualização e outros jogadores.",
+        "step2Title": "Acompanhe o roadmap",
+        "step2Description": "O quadro do Trello mostra os próximos recursos, reformulações de frutas e planos de balanceamento da Haze Studios.",
+        "step3Title": "Vincule sua conta",
+        "step3Description": "Os guias de vinculação de conta ajudam você a sincronizar o progresso e resgatar recompensas multiplataforma."
+      },
+      "featured": "Links em destaque",
+      "all": "Todos os links do Haze Seas"
+    }
   }
 }
